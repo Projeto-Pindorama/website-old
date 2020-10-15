@@ -69,6 +69,10 @@ hr {
   overflow: visible;
 }
 
+h6 {
+
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -168,7 +172,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: "Spleen 8x16", 'spleen_8x16medium', SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: 'spleen_8x16medium', SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 1em;
 }
 
@@ -10258,12 +10262,12 @@ h1 {
   margin-top: 0px;
   margin-left: 10px;
   text-align: left;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Helvetica, Arial, "lucida_sans_unicoderegular", coolveticaregular;
+  font-family: "lucida_sans_unicoderegular", coolveticaregular;
 }
 
 h4 {
   color:;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Helvetica, Arial, "lucida_sans_unicoderegular", coolveticaregular;
+  font-family: "lucida_sans_unicoderegular", coolveticaregular;
   font-size: 20px;
   font-weight: bold;
   font-style: italic;
@@ -10272,14 +10276,13 @@ h4 {
 
 h5 {
   color: black;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Helvetica, Arial, "lucida_sans_unicoderegular", coolveticaregular;
+  font-family: "lucida_sans_unicoderegular", coolveticaregular;
   font-size: 16px;
   margin-top: 2px;
 } 
 data {
-  margin-top: 5px;
   color: #2E3D69;
-  font-family: "Spleen 8x16", 'spleen_8x16medium';
+  font-family: 'spleen_8x16medium';
   font-size: 16px;
 }
 
@@ -10289,11 +10292,11 @@ data {
 }
 
 #font-codigo{
-  font-family: "Spleen 8x16", 'spleen_8x16medium';
+  font-family: 'spleen_8x16medium';
 }
 #banner{
-  width: 95%;
-  height: 50%;
+  width: 110%;
+  height: 70%;
   margin-top: 10px;
   margin-left: 10px;
 }
@@ -10312,7 +10315,6 @@ data {
   font-family: 'spleen_8x16medium';
   src: url('https://raw.githubusercontent.com/luiztheblues/luiztheblues.github.io/f821a6b5e0a7a1f378121e0093678e327e406508/source_files/pindorama-www-sources/spleen-8x16-webfont.woff') format('woff');
  }
-
     @font-face {
   font-family: 'coolveticaregular';
   src: url('https://raw.githubusercontent.com/luiztheblues/luiztheblues.github.io/f821a6b5e0a7a1f378121e0093678e327e406508/source_files/pindorama-www-sources/coolvetica_rg-webfont.woff') format('woff');
