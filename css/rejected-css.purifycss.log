@@ -1,0 +1,2883 @@
+
+    ________________________________________________
+    |
+    |   PurifyCSS has reduced the file size by ~ 93.0%  
+    |
+    ________________________________________________
+    
+
+    ________________________________________________
+    |
+    |   PurifyCSS - Rejected selectors:  
+    |   article
+    |	aside
+    |	figcaption
+    |	figure
+    |	footer
+    |	header
+    |	hgroup
+    |	main
+    |	hr
+    |	p
+    |	abbr[title]
+    |	abbr[data-original-title]
+    |	address
+    |	ol
+    |	dl
+    |	ol ol
+    |	ol ul
+    |	ul ol
+    |	dt
+    |	dd
+    |	blockquote
+    |	small
+    |	sub
+    |	sup
+    |	sub
+    |	sup
+    |	pre
+    |	code
+    |	kbd
+    |	samp
+    |	pre
+    |	figure
+    |	svg
+    |	table
+    |	caption
+    |	th
+    |	input
+    |	select
+    |	optgroup
+    |	textarea
+    |	input
+    |	select
+    |	select
+    |	input[type="radio"]
+    |	input[type="checkbox"]
+    |	textarea
+    |	fieldset
+    |	legend
+    |	progress
+    |	output
+    |	summary
+    |	template
+    |	.lead
+    |	hr
+    |	small
+    |	.small
+    |	mark
+    |	.mark
+    |	.list-unstyled
+    |	.list-inline
+    |	.list-inline-item
+    |	.list-inline-item:not(:last-child)
+    |	.initialism
+    |	.blockquote
+    |	.blockquote-footer
+    |	.blockquote-footer::before
+    |	.img-fluid
+    |	.img-thumbnail
+    |	.figure
+    |	.figure-img
+    |	.figure-caption
+    |	code
+    |	a > code
+    |	kbd
+    |	kbd kbd
+    |	pre
+    |	pre code
+    |	.pre-scrollable
+    |	.container
+    |	.container-fluid
+    |	.container-sm
+    |	.container-md
+    |	.container-lg
+    |	.container-xl
+    |	.container
+    |	.container-sm
+    |	.container
+    |	.container-sm
+    |	.container-md
+    |	.container
+    |	.container-sm
+    |	.container-md
+    |	.container-lg
+    |	.container
+    |	.container-sm
+    |	.container-md
+    |	.container-lg
+    |	.container-xl
+    |	.row
+    |	.no-gutters
+    |	.no-gutters > .col
+    |	.no-gutters > [class*="col-"]
+    |	.col-1
+    |	.col-2
+    |	.col-3
+    |	.col-4
+    |	.col-5
+    |	.col-6
+    |	.col-7
+    |	.col-8
+    |	.col-9
+    |	.col-10
+    |	.col-11
+    |	.col-12
+    |	.col
+    |	.col-auto
+    |	.col-sm-1
+    |	.col-sm-2
+    |	.col-sm-3
+    |	.col-sm-4
+    |	.col-sm-5
+    |	.col-sm-6
+    |	.col-sm-7
+    |	.col-sm-8
+    |	.col-sm-9
+    |	.col-sm-10
+    |	.col-sm-11
+    |	.col-sm-12
+    |	.col-sm
+    |	.col-sm-auto
+    |	.col-md-1
+    |	.col-md-2
+    |	.col-md-3
+    |	.col-md-4
+    |	.col-md-5
+    |	.col-md-6
+    |	.col-md-7
+    |	.col-md-8
+    |	.col-md-9
+    |	.col-md-10
+    |	.col-md-11
+    |	.col-md-12
+    |	.col-md
+    |	.col-md-auto
+    |	.col-lg-1
+    |	.col-lg-2
+    |	.col-lg-3
+    |	.col-lg-4
+    |	.col-lg-5
+    |	.col-lg-6
+    |	.col-lg-7
+    |	.col-lg-8
+    |	.col-lg-9
+    |	.col-lg-10
+    |	.col-lg-11
+    |	.col-lg-12
+    |	.col-lg
+    |	.col-lg-auto
+    |	.col-xl-1
+    |	.col-xl-2
+    |	.col-xl-3
+    |	.col-xl-4
+    |	.col-xl-5
+    |	.col-xl-6
+    |	.col-xl-7
+    |	.col-xl-8
+    |	.col-xl-9
+    |	.col-xl-10
+    |	.col-xl-11
+    |	.col-xl-12
+    |	.col-xl
+    |	.col-xl-auto
+    |	.col
+    |	.row-cols-1 > *
+    |	.row-cols-2 > *
+    |	.row-cols-3 > *
+    |	.row-cols-4 > *
+    |	.row-cols-5 > *
+    |	.row-cols-6 > *
+    |	.col-auto
+    |	.col-1
+    |	.col-2
+    |	.col-3
+    |	.col-4
+    |	.col-5
+    |	.col-6
+    |	.col-7
+    |	.col-8
+    |	.col-9
+    |	.col-10
+    |	.col-11
+    |	.col-12
+    |	.order-first
+    |	.order-last
+    |	.order-0
+    |	.order-1
+    |	.order-2
+    |	.order-3
+    |	.order-4
+    |	.order-5
+    |	.order-6
+    |	.order-7
+    |	.order-8
+    |	.order-9
+    |	.order-10
+    |	.order-11
+    |	.order-12
+    |	.offset-1
+    |	.offset-2
+    |	.offset-3
+    |	.offset-4
+    |	.offset-5
+    |	.offset-6
+    |	.offset-7
+    |	.offset-8
+    |	.offset-9
+    |	.offset-10
+    |	.offset-11
+    |	.col-sm
+    |	.row-cols-sm-1 > *
+    |	.row-cols-sm-2 > *
+    |	.row-cols-sm-3 > *
+    |	.row-cols-sm-4 > *
+    |	.row-cols-sm-5 > *
+    |	.row-cols-sm-6 > *
+    |	.col-sm-auto
+    |	.col-sm-1
+    |	.col-sm-2
+    |	.col-sm-3
+    |	.col-sm-4
+    |	.col-sm-5
+    |	.col-sm-6
+    |	.col-sm-7
+    |	.col-sm-8
+    |	.col-sm-9
+    |	.col-sm-10
+    |	.col-sm-11
+    |	.col-sm-12
+    |	.order-sm-first
+    |	.order-sm-last
+    |	.order-sm-0
+    |	.order-sm-1
+    |	.order-sm-2
+    |	.order-sm-3
+    |	.order-sm-4
+    |	.order-sm-5
+    |	.order-sm-6
+    |	.order-sm-7
+    |	.order-sm-8
+    |	.order-sm-9
+    |	.order-sm-10
+    |	.order-sm-11
+    |	.order-sm-12
+    |	.offset-sm-0
+    |	.offset-sm-1
+    |	.offset-sm-2
+    |	.offset-sm-3
+    |	.offset-sm-4
+    |	.offset-sm-5
+    |	.offset-sm-6
+    |	.offset-sm-7
+    |	.offset-sm-8
+    |	.offset-sm-9
+    |	.offset-sm-10
+    |	.offset-sm-11
+    |	.col-md
+    |	.row-cols-md-1 > *
+    |	.row-cols-md-2 > *
+    |	.row-cols-md-3 > *
+    |	.row-cols-md-4 > *
+    |	.row-cols-md-5 > *
+    |	.row-cols-md-6 > *
+    |	.col-md-auto
+    |	.col-md-1
+    |	.col-md-2
+    |	.col-md-3
+    |	.col-md-4
+    |	.col-md-5
+    |	.col-md-6
+    |	.col-md-7
+    |	.col-md-8
+    |	.col-md-9
+    |	.col-md-10
+    |	.col-md-11
+    |	.col-md-12
+    |	.order-md-first
+    |	.order-md-last
+    |	.order-md-0
+    |	.order-md-1
+    |	.order-md-2
+    |	.order-md-3
+    |	.order-md-4
+    |	.order-md-5
+    |	.order-md-6
+    |	.order-md-7
+    |	.order-md-8
+    |	.order-md-9
+    |	.order-md-10
+    |	.order-md-11
+    |	.order-md-12
+    |	.offset-md-0
+    |	.offset-md-1
+    |	.offset-md-2
+    |	.offset-md-3
+    |	.offset-md-4
+    |	.offset-md-5
+    |	.offset-md-6
+    |	.offset-md-7
+    |	.offset-md-8
+    |	.offset-md-9
+    |	.offset-md-10
+    |	.offset-md-11
+    |	.col-lg
+    |	.row-cols-lg-1 > *
+    |	.row-cols-lg-2 > *
+    |	.row-cols-lg-3 > *
+    |	.row-cols-lg-4 > *
+    |	.row-cols-lg-5 > *
+    |	.row-cols-lg-6 > *
+    |	.col-lg-auto
+    |	.col-lg-1
+    |	.col-lg-2
+    |	.col-lg-3
+    |	.col-lg-4
+    |	.col-lg-5
+    |	.col-lg-6
+    |	.col-lg-7
+    |	.col-lg-8
+    |	.col-lg-9
+    |	.col-lg-10
+    |	.col-lg-11
+    |	.col-lg-12
+    |	.order-lg-first
+    |	.order-lg-last
+    |	.order-lg-0
+    |	.order-lg-1
+    |	.order-lg-2
+    |	.order-lg-3
+    |	.order-lg-4
+    |	.order-lg-5
+    |	.order-lg-6
+    |	.order-lg-7
+    |	.order-lg-8
+    |	.order-lg-9
+    |	.order-lg-10
+    |	.order-lg-11
+    |	.order-lg-12
+    |	.offset-lg-0
+    |	.offset-lg-1
+    |	.offset-lg-2
+    |	.offset-lg-3
+    |	.offset-lg-4
+    |	.offset-lg-5
+    |	.offset-lg-6
+    |	.offset-lg-7
+    |	.offset-lg-8
+    |	.offset-lg-9
+    |	.offset-lg-10
+    |	.offset-lg-11
+    |	.col-xl
+    |	.row-cols-xl-1 > *
+    |	.row-cols-xl-2 > *
+    |	.row-cols-xl-3 > *
+    |	.row-cols-xl-4 > *
+    |	.row-cols-xl-5 > *
+    |	.row-cols-xl-6 > *
+    |	.col-xl-auto
+    |	.col-xl-1
+    |	.col-xl-2
+    |	.col-xl-3
+    |	.col-xl-4
+    |	.col-xl-5
+    |	.col-xl-6
+    |	.col-xl-7
+    |	.col-xl-8
+    |	.col-xl-9
+    |	.col-xl-10
+    |	.col-xl-11
+    |	.col-xl-12
+    |	.order-xl-first
+    |	.order-xl-last
+    |	.order-xl-0
+    |	.order-xl-1
+    |	.order-xl-2
+    |	.order-xl-3
+    |	.order-xl-4
+    |	.order-xl-5
+    |	.order-xl-6
+    |	.order-xl-7
+    |	.order-xl-8
+    |	.order-xl-9
+    |	.order-xl-10
+    |	.order-xl-11
+    |	.order-xl-12
+    |	.offset-xl-0
+    |	.offset-xl-1
+    |	.offset-xl-2
+    |	.offset-xl-3
+    |	.offset-xl-4
+    |	.offset-xl-5
+    |	.offset-xl-6
+    |	.offset-xl-7
+    |	.offset-xl-8
+    |	.offset-xl-9
+    |	.offset-xl-10
+    |	.offset-xl-11
+    |	.table
+    |	.table th
+    |	.table td
+    |	.table thead th
+    |	.table tbody + tbody
+    |	.table-sm th
+    |	.table-sm td
+    |	.table-bordered
+    |	.table-bordered th
+    |	.table-bordered td
+    |	.table-bordered thead th
+    |	.table-bordered thead td
+    |	.table-borderless th
+    |	.table-borderless td
+    |	.table-borderless thead th
+    |	.table-borderless tbody + tbody
+    |	.table-striped tbody tr:nth-of-type(odd)
+    |	.table-hover tbody tr:hover
+    |	.table-primary
+    |	.table-primary > th
+    |	.table-primary > td
+    |	.table-primary th
+    |	.table-primary td
+    |	.table-primary thead th
+    |	.table-primary tbody + tbody
+    |	.table-hover .table-primary:hover
+    |	.table-hover .table-primary:hover > td
+    |	.table-hover .table-primary:hover > th
+    |	.table-secondary
+    |	.table-secondary > th
+    |	.table-secondary > td
+    |	.table-secondary th
+    |	.table-secondary td
+    |	.table-secondary thead th
+    |	.table-secondary tbody + tbody
+    |	.table-hover .table-secondary:hover
+    |	.table-hover .table-secondary:hover > td
+    |	.table-hover .table-secondary:hover > th
+    |	.table-success
+    |	.table-success > th
+    |	.table-success > td
+    |	.table-success th
+    |	.table-success td
+    |	.table-success thead th
+    |	.table-success tbody + tbody
+    |	.table-hover .table-success:hover
+    |	.table-hover .table-success:hover > td
+    |	.table-hover .table-success:hover > th
+    |	.table-info
+    |	.table-info > th
+    |	.table-info > td
+    |	.table-info th
+    |	.table-info td
+    |	.table-info thead th
+    |	.table-info tbody + tbody
+    |	.table-hover .table-info:hover
+    |	.table-hover .table-info:hover > td
+    |	.table-hover .table-info:hover > th
+    |	.table-warning
+    |	.table-warning > th
+    |	.table-warning > td
+    |	.table-warning th
+    |	.table-warning td
+    |	.table-warning thead th
+    |	.table-warning tbody + tbody
+    |	.table-hover .table-warning:hover
+    |	.table-hover .table-warning:hover > td
+    |	.table-hover .table-warning:hover > th
+    |	.table-danger
+    |	.table-danger > th
+    |	.table-danger > td
+    |	.table-danger th
+    |	.table-danger td
+    |	.table-danger thead th
+    |	.table-danger tbody + tbody
+    |	.table-hover .table-danger:hover
+    |	.table-hover .table-danger:hover > td
+    |	.table-hover .table-danger:hover > th
+    |	.table-light
+    |	.table-light > th
+    |	.table-light > td
+    |	.table-light th
+    |	.table-light td
+    |	.table-light thead th
+    |	.table-light tbody + tbody
+    |	.table-hover .table-light:hover
+    |	.table-hover .table-light:hover > td
+    |	.table-hover .table-light:hover > th
+    |	.table-dark
+    |	.table-dark > th
+    |	.table-dark > td
+    |	.table-dark th
+    |	.table-dark td
+    |	.table-dark thead th
+    |	.table-dark tbody + tbody
+    |	.table-hover .table-dark:hover
+    |	.table-hover .table-dark:hover > td
+    |	.table-hover .table-dark:hover > th
+    |	.table-active
+    |	.table-active > th
+    |	.table-active > td
+    |	.table-hover .table-active:hover
+    |	.table-hover .table-active:hover > td
+    |	.table-hover .table-active:hover > th
+    |	.table .thead-dark th
+    |	.table .thead-light th
+    |	.table-dark
+    |	.table-dark th
+    |	.table-dark td
+    |	.table-dark thead th
+    |	.table-dark.table-bordered
+    |	.table-dark.table-striped tbody tr:nth-of-type(odd)
+    |	.table-dark.table-hover tbody tr:hover
+    |	.table-responsive-sm
+    |	.table-responsive-sm > .table-bordered
+    |	.table-responsive-md
+    |	.table-responsive-md > .table-bordered
+    |	.table-responsive-lg
+    |	.table-responsive-lg > .table-bordered
+    |	.table-responsive-xl
+    |	.table-responsive-xl > .table-bordered
+    |	.table-responsive
+    |	.table-responsive > .table-bordered
+    |	.form-control
+    |	.form-control
+    |	.form-control::-ms-expand
+    |	.form-control:-moz-focusring
+    |	.form-control:focus
+    |	.form-control::-webkit-input-placeholder
+    |	.form-control::-moz-placeholder
+    |	.form-control:-ms-input-placeholder
+    |	.form-control::-ms-input-placeholder
+    |	.form-control::placeholder
+    |	.form-control:disabled
+    |	.form-control[readonly]
+    |	input[type="date"].form-control
+    |	input[type="time"].form-control
+    |	input[type="datetime-local"].form-control
+    |	input[type="month"].form-control
+    |	select.form-control:focus::-ms-value
+    |	.form-control-file
+    |	.form-control-range
+    |	.col-form-label
+    |	.col-form-label-lg
+    |	.col-form-label-sm
+    |	.form-control-plaintext
+    |	.form-control-plaintext.form-control-sm
+    |	.form-control-plaintext.form-control-lg
+    |	.form-control-sm
+    |	.form-control-lg
+    |	select.form-control[size]
+    |	select.form-control[multiple]
+    |	textarea.form-control
+    |	.form-group
+    |	.form-text
+    |	.form-row
+    |	.form-row > .col
+    |	.form-row > [class*="col-"]
+    |	.form-check
+    |	.form-check-input
+    |	.form-check-input[disabled] ~ .form-check-label
+    |	.form-check-input:disabled ~ .form-check-label
+    |	.form-check-label
+    |	.form-check-inline
+    |	.form-check-inline .form-check-input
+    |	.valid-feedback
+    |	.valid-tooltip
+    |	.was-validated :valid ~ .valid-feedback
+    |	.was-validated :valid ~ .valid-tooltip
+    |	.is-valid ~ .valid-feedback
+    |	.is-valid ~ .valid-tooltip
+    |	.was-validated .form-control:valid
+    |	.form-control.is-valid
+    |	.was-validated .form-control:valid:focus
+    |	.form-control.is-valid:focus
+    |	.was-validated textarea.form-control:valid
+    |	textarea.form-control.is-valid
+    |	.was-validated .custom-select:valid
+    |	.custom-select.is-valid
+    |	.was-validated .custom-select:valid:focus
+    |	.custom-select.is-valid:focus
+    |	.was-validated .form-check-input:valid ~ .form-check-label
+    |	.form-check-input.is-valid ~ .form-check-label
+    |	.was-validated .form-check-input:valid ~ .valid-feedback
+    |	.was-validated .form-check-input:valid ~ .valid-tooltip
+    |	.form-check-input.is-valid ~ .valid-feedback
+    |	.form-check-input.is-valid ~ .valid-tooltip
+    |	.was-validated .custom-control-input:valid ~ .custom-control-label
+    |	.custom-control-input.is-valid ~ .custom-control-label
+    |	.was-validated .custom-control-input:valid ~ .custom-control-label::before
+    |	.custom-control-input.is-valid ~ .custom-control-label::before
+    |	.was-validated .custom-control-input:valid:checked ~ .custom-control-label::before
+    |	.custom-control-input.is-valid:checked ~ .custom-control-label::before
+    |	.was-validated .custom-control-input:valid:focus ~ .custom-control-label::before
+    |	.custom-control-input.is-valid:focus ~ .custom-control-label::before
+    |	.was-validated .custom-control-input:valid:focus:not(:checked) ~ .custom-control-label::before
+    |	.custom-control-input.is-valid:focus:not(:checked) ~ .custom-control-label::before
+    |	.was-validated .custom-file-input:valid ~ .custom-file-label
+    |	.custom-file-input.is-valid ~ .custom-file-label
+    |	.was-validated .custom-file-input:valid:focus ~ .custom-file-label
+    |	.custom-file-input.is-valid:focus ~ .custom-file-label
+    |	.invalid-feedback
+    |	.invalid-tooltip
+    |	.was-validated :invalid ~ .invalid-feedback
+    |	.was-validated :invalid ~ .invalid-tooltip
+    |	.is-invalid ~ .invalid-feedback
+    |	.is-invalid ~ .invalid-tooltip
+    |	.was-validated .form-control:invalid
+    |	.form-control.is-invalid
+    |	.was-validated .form-control:invalid:focus
+    |	.form-control.is-invalid:focus
+    |	.was-validated textarea.form-control:invalid
+    |	textarea.form-control.is-invalid
+    |	.was-validated .custom-select:invalid
+    |	.custom-select.is-invalid
+    |	.was-validated .custom-select:invalid:focus
+    |	.custom-select.is-invalid:focus
+    |	.was-validated .form-check-input:invalid ~ .form-check-label
+    |	.form-check-input.is-invalid ~ .form-check-label
+    |	.was-validated .form-check-input:invalid ~ .invalid-feedback
+    |	.was-validated .form-check-input:invalid ~ .invalid-tooltip
+    |	.form-check-input.is-invalid ~ .invalid-feedback
+    |	.form-check-input.is-invalid ~ .invalid-tooltip
+    |	.was-validated .custom-control-input:invalid ~ .custom-control-label
+    |	.custom-control-input.is-invalid ~ .custom-control-label
+    |	.was-validated .custom-control-input:invalid ~ .custom-control-label::before
+    |	.custom-control-input.is-invalid ~ .custom-control-label::before
+    |	.was-validated .custom-control-input:invalid:checked ~ .custom-control-label::before
+    |	.custom-control-input.is-invalid:checked ~ .custom-control-label::before
+    |	.was-validated .custom-control-input:invalid:focus ~ .custom-control-label::before
+    |	.custom-control-input.is-invalid:focus ~ .custom-control-label::before
+    |	.was-validated .custom-control-input:invalid:focus:not(:checked) ~ .custom-control-label::before
+    |	.custom-control-input.is-invalid:focus:not(:checked) ~ .custom-control-label::before
+    |	.was-validated .custom-file-input:invalid ~ .custom-file-label
+    |	.custom-file-input.is-invalid ~ .custom-file-label
+    |	.was-validated .custom-file-input:invalid:focus ~ .custom-file-label
+    |	.custom-file-input.is-invalid:focus ~ .custom-file-label
+    |	.form-inline
+    |	.form-inline .form-check
+    |	.form-inline label
+    |	.form-inline .form-group
+    |	.form-inline .form-control
+    |	.form-inline .form-control-plaintext
+    |	.form-inline .input-group
+    |	.form-inline .custom-select
+    |	.form-inline .form-check
+    |	.form-inline .form-check-input
+    |	.form-inline .custom-control
+    |	.form-inline .custom-control-label
+    |	.btn
+    |	.btn
+    |	.btn:hover
+    |	.btn:focus
+    |	.btn.focus
+    |	.btn.disabled
+    |	.btn:disabled
+    |	.btn:not(:disabled):not(.disabled)
+    |	a.btn.disabled
+    |	fieldset:disabled a.btn
+    |	.btn-primary
+    |	.btn-primary:hover
+    |	.btn-primary:focus
+    |	.btn-primary.focus
+    |	.btn-primary.disabled
+    |	.btn-primary:disabled
+    |	.btn-primary:not(:disabled):not(.disabled):active
+    |	.btn-primary:not(:disabled):not(.disabled).active
+    |	.show > .btn-primary.dropdown-toggle
+    |	.btn-primary:not(:disabled):not(.disabled):active:focus
+    |	.btn-primary:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-primary.dropdown-toggle:focus
+    |	.btn-secondary
+    |	.btn-secondary:hover
+    |	.btn-secondary:focus
+    |	.btn-secondary.focus
+    |	.btn-secondary.disabled
+    |	.btn-secondary:disabled
+    |	.btn-secondary:not(:disabled):not(.disabled):active
+    |	.btn-secondary:not(:disabled):not(.disabled).active
+    |	.show > .btn-secondary.dropdown-toggle
+    |	.btn-secondary:not(:disabled):not(.disabled):active:focus
+    |	.btn-secondary:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-secondary.dropdown-toggle:focus
+    |	.btn-success
+    |	.btn-success:hover
+    |	.btn-success:focus
+    |	.btn-success.focus
+    |	.btn-success.disabled
+    |	.btn-success:disabled
+    |	.btn-success:not(:disabled):not(.disabled):active
+    |	.btn-success:not(:disabled):not(.disabled).active
+    |	.show > .btn-success.dropdown-toggle
+    |	.btn-success:not(:disabled):not(.disabled):active:focus
+    |	.btn-success:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-success.dropdown-toggle:focus
+    |	.btn-info
+    |	.btn-info:hover
+    |	.btn-info:focus
+    |	.btn-info.focus
+    |	.btn-info.disabled
+    |	.btn-info:disabled
+    |	.btn-info:not(:disabled):not(.disabled):active
+    |	.btn-info:not(:disabled):not(.disabled).active
+    |	.show > .btn-info.dropdown-toggle
+    |	.btn-info:not(:disabled):not(.disabled):active:focus
+    |	.btn-info:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-info.dropdown-toggle:focus
+    |	.btn-warning
+    |	.btn-warning:hover
+    |	.btn-warning:focus
+    |	.btn-warning.focus
+    |	.btn-warning.disabled
+    |	.btn-warning:disabled
+    |	.btn-warning:not(:disabled):not(.disabled):active
+    |	.btn-warning:not(:disabled):not(.disabled).active
+    |	.show > .btn-warning.dropdown-toggle
+    |	.btn-warning:not(:disabled):not(.disabled):active:focus
+    |	.btn-warning:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-warning.dropdown-toggle:focus
+    |	.btn-danger
+    |	.btn-danger:hover
+    |	.btn-danger:focus
+    |	.btn-danger.focus
+    |	.btn-danger.disabled
+    |	.btn-danger:disabled
+    |	.btn-danger:not(:disabled):not(.disabled):active
+    |	.btn-danger:not(:disabled):not(.disabled).active
+    |	.show > .btn-danger.dropdown-toggle
+    |	.btn-danger:not(:disabled):not(.disabled):active:focus
+    |	.btn-danger:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-danger.dropdown-toggle:focus
+    |	.btn-light
+    |	.btn-light:hover
+    |	.btn-light:focus
+    |	.btn-light.focus
+    |	.btn-light.disabled
+    |	.btn-light:disabled
+    |	.btn-light:not(:disabled):not(.disabled):active
+    |	.btn-light:not(:disabled):not(.disabled).active
+    |	.show > .btn-light.dropdown-toggle
+    |	.btn-light:not(:disabled):not(.disabled):active:focus
+    |	.btn-light:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-light.dropdown-toggle:focus
+    |	.btn-dark
+    |	.btn-dark:hover
+    |	.btn-dark:focus
+    |	.btn-dark.focus
+    |	.btn-dark.disabled
+    |	.btn-dark:disabled
+    |	.btn-dark:not(:disabled):not(.disabled):active
+    |	.btn-dark:not(:disabled):not(.disabled).active
+    |	.show > .btn-dark.dropdown-toggle
+    |	.btn-dark:not(:disabled):not(.disabled):active:focus
+    |	.btn-dark:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-dark.dropdown-toggle:focus
+    |	.btn-outline-primary
+    |	.btn-outline-primary:hover
+    |	.btn-outline-primary:focus
+    |	.btn-outline-primary.focus
+    |	.btn-outline-primary.disabled
+    |	.btn-outline-primary:disabled
+    |	.btn-outline-primary:not(:disabled):not(.disabled):active
+    |	.btn-outline-primary:not(:disabled):not(.disabled).active
+    |	.show > .btn-outline-primary.dropdown-toggle
+    |	.btn-outline-primary:not(:disabled):not(.disabled):active:focus
+    |	.btn-outline-primary:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-outline-primary.dropdown-toggle:focus
+    |	.btn-outline-secondary
+    |	.btn-outline-secondary:hover
+    |	.btn-outline-secondary:focus
+    |	.btn-outline-secondary.focus
+    |	.btn-outline-secondary.disabled
+    |	.btn-outline-secondary:disabled
+    |	.btn-outline-secondary:not(:disabled):not(.disabled):active
+    |	.btn-outline-secondary:not(:disabled):not(.disabled).active
+    |	.show > .btn-outline-secondary.dropdown-toggle
+    |	.btn-outline-secondary:not(:disabled):not(.disabled):active:focus
+    |	.btn-outline-secondary:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-outline-secondary.dropdown-toggle:focus
+    |	.btn-outline-success
+    |	.btn-outline-success:hover
+    |	.btn-outline-success:focus
+    |	.btn-outline-success.focus
+    |	.btn-outline-success.disabled
+    |	.btn-outline-success:disabled
+    |	.btn-outline-success:not(:disabled):not(.disabled):active
+    |	.btn-outline-success:not(:disabled):not(.disabled).active
+    |	.show > .btn-outline-success.dropdown-toggle
+    |	.btn-outline-success:not(:disabled):not(.disabled):active:focus
+    |	.btn-outline-success:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-outline-success.dropdown-toggle:focus
+    |	.btn-outline-info
+    |	.btn-outline-info:hover
+    |	.btn-outline-info:focus
+    |	.btn-outline-info.focus
+    |	.btn-outline-info.disabled
+    |	.btn-outline-info:disabled
+    |	.btn-outline-info:not(:disabled):not(.disabled):active
+    |	.btn-outline-info:not(:disabled):not(.disabled).active
+    |	.show > .btn-outline-info.dropdown-toggle
+    |	.btn-outline-info:not(:disabled):not(.disabled):active:focus
+    |	.btn-outline-info:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-outline-info.dropdown-toggle:focus
+    |	.btn-outline-warning
+    |	.btn-outline-warning:hover
+    |	.btn-outline-warning:focus
+    |	.btn-outline-warning.focus
+    |	.btn-outline-warning.disabled
+    |	.btn-outline-warning:disabled
+    |	.btn-outline-warning:not(:disabled):not(.disabled):active
+    |	.btn-outline-warning:not(:disabled):not(.disabled).active
+    |	.show > .btn-outline-warning.dropdown-toggle
+    |	.btn-outline-warning:not(:disabled):not(.disabled):active:focus
+    |	.btn-outline-warning:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-outline-warning.dropdown-toggle:focus
+    |	.btn-outline-danger
+    |	.btn-outline-danger:hover
+    |	.btn-outline-danger:focus
+    |	.btn-outline-danger.focus
+    |	.btn-outline-danger.disabled
+    |	.btn-outline-danger:disabled
+    |	.btn-outline-danger:not(:disabled):not(.disabled):active
+    |	.btn-outline-danger:not(:disabled):not(.disabled).active
+    |	.show > .btn-outline-danger.dropdown-toggle
+    |	.btn-outline-danger:not(:disabled):not(.disabled):active:focus
+    |	.btn-outline-danger:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-outline-danger.dropdown-toggle:focus
+    |	.btn-outline-light
+    |	.btn-outline-light:hover
+    |	.btn-outline-light:focus
+    |	.btn-outline-light.focus
+    |	.btn-outline-light.disabled
+    |	.btn-outline-light:disabled
+    |	.btn-outline-light:not(:disabled):not(.disabled):active
+    |	.btn-outline-light:not(:disabled):not(.disabled).active
+    |	.show > .btn-outline-light.dropdown-toggle
+    |	.btn-outline-light:not(:disabled):not(.disabled):active:focus
+    |	.btn-outline-light:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-outline-light.dropdown-toggle:focus
+    |	.btn-outline-dark
+    |	.btn-outline-dark:hover
+    |	.btn-outline-dark:focus
+    |	.btn-outline-dark.focus
+    |	.btn-outline-dark.disabled
+    |	.btn-outline-dark:disabled
+    |	.btn-outline-dark:not(:disabled):not(.disabled):active
+    |	.btn-outline-dark:not(:disabled):not(.disabled).active
+    |	.show > .btn-outline-dark.dropdown-toggle
+    |	.btn-outline-dark:not(:disabled):not(.disabled):active:focus
+    |	.btn-outline-dark:not(:disabled):not(.disabled).active:focus
+    |	.show > .btn-outline-dark.dropdown-toggle:focus
+    |	.btn-link
+    |	.btn-link:hover
+    |	.btn-link:focus
+    |	.btn-link.focus
+    |	.btn-link:disabled
+    |	.btn-link.disabled
+    |	.btn-lg
+    |	.btn-group-lg > .btn
+    |	.btn-sm
+    |	.btn-group-sm > .btn
+    |	.btn-block
+    |	.btn-block + .btn-block
+    |	input[type="submit"].btn-block
+    |	input[type="reset"].btn-block
+    |	input[type="button"].btn-block
+    |	.fade
+    |	.fade
+    |	.fade:not(.show)
+    |	.collapse:not(.show)
+    |	.collapsing
+    |	.collapsing
+    |	.dropup
+    |	.dropright
+    |	.dropdown
+    |	.dropleft
+    |	.dropdown-toggle
+    |	.dropdown-toggle::after
+    |	.dropdown-toggle:empty::after
+    |	.dropdown-menu
+    |	.dropdown-menu-left
+    |	.dropdown-menu-right
+    |	.dropdown-menu-sm-left
+    |	.dropdown-menu-sm-right
+    |	.dropdown-menu-md-left
+    |	.dropdown-menu-md-right
+    |	.dropdown-menu-lg-left
+    |	.dropdown-menu-lg-right
+    |	.dropdown-menu-xl-left
+    |	.dropdown-menu-xl-right
+    |	.dropup .dropdown-menu
+    |	.dropup .dropdown-toggle::after
+    |	.dropup .dropdown-toggle:empty::after
+    |	.dropright .dropdown-menu
+    |	.dropright .dropdown-toggle::after
+    |	.dropright .dropdown-toggle:empty::after
+    |	.dropright .dropdown-toggle::after
+    |	.dropleft .dropdown-menu
+    |	.dropleft .dropdown-toggle::after
+    |	.dropleft .dropdown-toggle::after
+    |	.dropleft .dropdown-toggle::before
+    |	.dropleft .dropdown-toggle:empty::after
+    |	.dropleft .dropdown-toggle::before
+    |	.dropdown-menu[x-placement^="top"]
+    |	.dropdown-menu[x-placement^="right"]
+    |	.dropdown-menu[x-placement^="bottom"]
+    |	.dropdown-menu[x-placement^="left"]
+    |	.dropdown-divider
+    |	.dropdown-item
+    |	.dropdown-item:hover
+    |	.dropdown-item:focus
+    |	.dropdown-item.active
+    |	.dropdown-item:active
+    |	.dropdown-item.disabled
+    |	.dropdown-item:disabled
+    |	.dropdown-menu.show
+    |	.dropdown-header
+    |	.dropdown-item-text
+    |	.btn-group
+    |	.btn-group-vertical
+    |	.btn-group > .btn
+    |	.btn-group-vertical > .btn
+    |	.btn-group > .btn:hover
+    |	.btn-group-vertical > .btn:hover
+    |	.btn-group > .btn:focus
+    |	.btn-group > .btn:active
+    |	.btn-group > .btn.active
+    |	.btn-group-vertical > .btn:focus
+    |	.btn-group-vertical > .btn:active
+    |	.btn-group-vertical > .btn.active
+    |	.btn-toolbar
+    |	.btn-toolbar .input-group
+    |	.btn-group > .btn:not(:first-child)
+    |	.btn-group > .btn-group:not(:first-child)
+    |	.btn-group > .btn:not(:last-child):not(.dropdown-toggle)
+    |	.btn-group > .btn-group:not(:last-child) > .btn
+    |	.btn-group > .btn:not(:first-child)
+    |	.btn-group > .btn-group:not(:first-child) > .btn
+    |	.dropdown-toggle-split
+    |	.dropdown-toggle-split::after
+    |	.dropup .dropdown-toggle-split::after
+    |	.dropright .dropdown-toggle-split::after
+    |	.dropleft .dropdown-toggle-split::before
+    |	.btn-sm + .dropdown-toggle-split
+    |	.btn-group-sm > .btn + .dropdown-toggle-split
+    |	.btn-lg + .dropdown-toggle-split
+    |	.btn-group-lg > .btn + .dropdown-toggle-split
+    |	.btn-group-vertical
+    |	.btn-group-vertical > .btn
+    |	.btn-group-vertical > .btn-group
+    |	.btn-group-vertical > .btn:not(:first-child)
+    |	.btn-group-vertical > .btn-group:not(:first-child)
+    |	.btn-group-vertical > .btn:not(:last-child):not(.dropdown-toggle)
+    |	.btn-group-vertical > .btn-group:not(:last-child) > .btn
+    |	.btn-group-vertical > .btn:not(:first-child)
+    |	.btn-group-vertical > .btn-group:not(:first-child) > .btn
+    |	.btn-group-toggle > .btn
+    |	.btn-group-toggle > .btn-group > .btn
+    |	.btn-group-toggle > .btn input[type="radio"]
+    |	.btn-group-toggle > .btn input[type="checkbox"]
+    |	.btn-group-toggle > .btn-group > .btn input[type="radio"]
+    |	.btn-group-toggle > .btn-group > .btn input[type="checkbox"]
+    |	.input-group
+    |	.input-group > .form-control
+    |	.input-group > .form-control-plaintext
+    |	.input-group > .custom-select
+    |	.input-group > .custom-file
+    |	.input-group > .form-control + .form-control
+    |	.input-group > .form-control + .custom-select
+    |	.input-group > .form-control + .custom-file
+    |	.input-group > .form-control-plaintext + .form-control
+    |	.input-group > .form-control-plaintext + .custom-select
+    |	.input-group > .form-control-plaintext + .custom-file
+    |	.input-group > .custom-select + .form-control
+    |	.input-group > .custom-select + .custom-select
+    |	.input-group > .custom-select + .custom-file
+    |	.input-group > .custom-file + .form-control
+    |	.input-group > .custom-file + .custom-select
+    |	.input-group > .custom-file + .custom-file
+    |	.input-group > .form-control:focus
+    |	.input-group > .custom-select:focus
+    |	.input-group > .custom-file .custom-file-input:focus ~ .custom-file-label
+    |	.input-group > .custom-file .custom-file-input:focus
+    |	.input-group > .form-control:not(:last-child)
+    |	.input-group > .custom-select:not(:last-child)
+    |	.input-group > .form-control:not(:first-child)
+    |	.input-group > .custom-select:not(:first-child)
+    |	.input-group > .custom-file
+    |	.input-group > .custom-file:not(:last-child) .custom-file-label
+    |	.input-group > .custom-file:not(:last-child) .custom-file-label::after
+    |	.input-group > .custom-file:not(:first-child) .custom-file-label
+    |	.input-group-prepend
+    |	.input-group-append
+    |	.input-group-prepend .btn
+    |	.input-group-append .btn
+    |	.input-group-prepend .btn:focus
+    |	.input-group-append .btn:focus
+    |	.input-group-prepend .btn + .btn
+    |	.input-group-prepend .btn + .input-group-text
+    |	.input-group-prepend .input-group-text + .input-group-text
+    |	.input-group-prepend .input-group-text + .btn
+    |	.input-group-append .btn + .btn
+    |	.input-group-append .btn + .input-group-text
+    |	.input-group-append .input-group-text + .input-group-text
+    |	.input-group-append .input-group-text + .btn
+    |	.input-group-prepend
+    |	.input-group-append
+    |	.input-group-text
+    |	.input-group-text input[type="radio"]
+    |	.input-group-text input[type="checkbox"]
+    |	.input-group-lg > .form-control:not(textarea)
+    |	.input-group-lg > .custom-select
+    |	.input-group-lg > .form-control
+    |	.input-group-lg > .custom-select
+    |	.input-group-lg > .input-group-prepend > .input-group-text
+    |	.input-group-lg > .input-group-append > .input-group-text
+    |	.input-group-lg > .input-group-prepend > .btn
+    |	.input-group-lg > .input-group-append > .btn
+    |	.input-group-sm > .form-control:not(textarea)
+    |	.input-group-sm > .custom-select
+    |	.input-group-sm > .form-control
+    |	.input-group-sm > .custom-select
+    |	.input-group-sm > .input-group-prepend > .input-group-text
+    |	.input-group-sm > .input-group-append > .input-group-text
+    |	.input-group-sm > .input-group-prepend > .btn
+    |	.input-group-sm > .input-group-append > .btn
+    |	.input-group-lg > .custom-select
+    |	.input-group-sm > .custom-select
+    |	.input-group > .input-group-prepend > .btn
+    |	.input-group > .input-group-prepend > .input-group-text
+    |	.input-group > .input-group-append:not(:last-child) > .btn
+    |	.input-group > .input-group-append:not(:last-child) > .input-group-text
+    |	.input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle)
+    |	.input-group > .input-group-append:last-child > .input-group-text:not(:last-child)
+    |	.input-group > .input-group-append > .btn
+    |	.input-group > .input-group-append > .input-group-text
+    |	.input-group > .input-group-prepend:not(:first-child) > .btn
+    |	.input-group > .input-group-prepend:not(:first-child) > .input-group-text
+    |	.input-group > .input-group-prepend:first-child > .btn:not(:first-child)
+    |	.input-group > .input-group-prepend:first-child > .input-group-text:not(:first-child)
+    |	.custom-control
+    |	.custom-control-inline
+    |	.custom-control-input
+    |	.custom-control-input:checked ~ .custom-control-label::before
+    |	.custom-control-input:focus ~ .custom-control-label::before
+    |	.custom-control-input:focus:not(:checked) ~ .custom-control-label::before
+    |	.custom-control-input:not(:disabled):active ~ .custom-control-label::before
+    |	.custom-control-input[disabled] ~ .custom-control-label
+    |	.custom-control-input:disabled ~ .custom-control-label
+    |	.custom-control-input[disabled] ~ .custom-control-label::before
+    |	.custom-control-input:disabled ~ .custom-control-label::before
+    |	.custom-control-label
+    |	.custom-control-label::before
+    |	.custom-control-label::after
+    |	.custom-checkbox .custom-control-label::before
+    |	.custom-checkbox .custom-control-input:checked ~ .custom-control-label::after
+    |	.custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before
+    |	.custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after
+    |	.custom-checkbox .custom-control-input:disabled:checked ~ .custom-control-label::before
+    |	.custom-checkbox .custom-control-input:disabled:indeterminate ~ .custom-control-label::before
+    |	.custom-radio .custom-control-label::before
+    |	.custom-radio .custom-control-input:checked ~ .custom-control-label::after
+    |	.custom-radio .custom-control-input:disabled:checked ~ .custom-control-label::before
+    |	.custom-switch
+    |	.custom-switch .custom-control-label::before
+    |	.custom-switch .custom-control-label::after
+    |	.custom-switch .custom-control-label::after
+    |	.custom-switch .custom-control-input:checked ~ .custom-control-label::after
+    |	.custom-switch .custom-control-input:disabled:checked ~ .custom-control-label::before
+    |	.custom-select
+    |	.custom-select:focus
+    |	.custom-select:focus::-ms-value
+    |	.custom-select[multiple]
+    |	.custom-select[size]:not([size="1"])
+    |	.custom-select:disabled
+    |	.custom-select::-ms-expand
+    |	.custom-select:-moz-focusring
+    |	.custom-select-sm
+    |	.custom-select-lg
+    |	.custom-file
+    |	.custom-file-input
+    |	.custom-file-input:focus ~ .custom-file-label
+    |	.custom-file-input[disabled] ~ .custom-file-label
+    |	.custom-file-input:disabled ~ .custom-file-label
+    |	.custom-file-input:lang(en) ~ .custom-file-label::after
+    |	.custom-file-input ~ .custom-file-label[data-browse]::after
+    |	.custom-file-label
+    |	.custom-file-label::after
+    |	.custom-range
+    |	.custom-range:focus
+    |	.custom-range:focus::-webkit-slider-thumb
+    |	.custom-range:focus::-moz-range-thumb
+    |	.custom-range:focus::-ms-thumb
+    |	.custom-range::-moz-focus-outer
+    |	.custom-range::-webkit-slider-thumb
+    |	.custom-range::-webkit-slider-thumb
+    |	.custom-range::-webkit-slider-thumb:active
+    |	.custom-range::-webkit-slider-runnable-track
+    |	.custom-range::-moz-range-thumb
+    |	.custom-range::-moz-range-thumb
+    |	.custom-range::-moz-range-thumb:active
+    |	.custom-range::-moz-range-track
+    |	.custom-range::-ms-thumb
+    |	.custom-range::-ms-thumb
+    |	.custom-range::-ms-thumb:active
+    |	.custom-range::-ms-track
+    |	.custom-range::-ms-fill-lower
+    |	.custom-range::-ms-fill-upper
+    |	.custom-range:disabled::-webkit-slider-thumb
+    |	.custom-range:disabled::-webkit-slider-runnable-track
+    |	.custom-range:disabled::-moz-range-thumb
+    |	.custom-range:disabled::-moz-range-track
+    |	.custom-range:disabled::-ms-thumb
+    |	.custom-control-label::before
+    |	.custom-file-label
+    |	.custom-select
+    |	.custom-control-label::before
+    |	.custom-file-label
+    |	.custom-select
+    |	.nav-link.disabled
+    |	.nav-tabs
+    |	.nav-tabs .nav-item
+    |	.nav-tabs .nav-link
+    |	.nav-tabs .nav-link:hover
+    |	.nav-tabs .nav-link:focus
+    |	.nav-tabs .nav-link.disabled
+    |	.nav-tabs .nav-link.active
+    |	.nav-tabs .nav-item.show .nav-link
+    |	.nav-tabs .dropdown-menu
+    |	.nav-pills .nav-link
+    |	.nav-pills .nav-link.active
+    |	.nav-pills .show > .nav-link
+    |	.nav-fill > .nav-link
+    |	.nav-fill .nav-item
+    |	.nav-justified > .nav-link
+    |	.nav-justified .nav-item
+    |	.tab-content > .tab-pane
+    |	.tab-content > .active
+    |	.navbar .container
+    |	.navbar .container-fluid
+    |	.navbar .container-sm
+    |	.navbar .container-md
+    |	.navbar .container-lg
+    |	.navbar .container-xl
+    |	.navbar-nav .dropdown-menu
+    |	.navbar-text
+    |	.navbar-expand-sm > .container
+    |	.navbar-expand-sm > .container-fluid
+    |	.navbar-expand-sm > .container-sm
+    |	.navbar-expand-sm > .container-md
+    |	.navbar-expand-sm > .container-lg
+    |	.navbar-expand-sm > .container-xl
+    |	.navbar-expand-sm
+    |	.navbar-expand-sm .navbar-nav
+    |	.navbar-expand-sm .navbar-nav .dropdown-menu
+    |	.navbar-expand-sm .navbar-nav .nav-link
+    |	.navbar-expand-sm > .container
+    |	.navbar-expand-sm > .container-fluid
+    |	.navbar-expand-sm > .container-sm
+    |	.navbar-expand-sm > .container-md
+    |	.navbar-expand-sm > .container-lg
+    |	.navbar-expand-sm > .container-xl
+    |	.navbar-expand-sm .navbar-collapse
+    |	.navbar-expand-sm .navbar-toggler
+    |	.navbar-expand-md > .container
+    |	.navbar-expand-md > .container-fluid
+    |	.navbar-expand-md > .container-sm
+    |	.navbar-expand-md > .container-md
+    |	.navbar-expand-md > .container-lg
+    |	.navbar-expand-md > .container-xl
+    |	.navbar-expand-md
+    |	.navbar-expand-md .navbar-nav
+    |	.navbar-expand-md .navbar-nav .dropdown-menu
+    |	.navbar-expand-md .navbar-nav .nav-link
+    |	.navbar-expand-md > .container
+    |	.navbar-expand-md > .container-fluid
+    |	.navbar-expand-md > .container-sm
+    |	.navbar-expand-md > .container-md
+    |	.navbar-expand-md > .container-lg
+    |	.navbar-expand-md > .container-xl
+    |	.navbar-expand-md .navbar-collapse
+    |	.navbar-expand-md .navbar-toggler
+    |	.navbar-expand-lg > .container
+    |	.navbar-expand-lg > .container-fluid
+    |	.navbar-expand-lg > .container-sm
+    |	.navbar-expand-lg > .container-md
+    |	.navbar-expand-lg > .container-lg
+    |	.navbar-expand-lg > .container-xl
+    |	.navbar-expand-lg .navbar-nav .dropdown-menu
+    |	.navbar-expand-lg > .container
+    |	.navbar-expand-lg > .container-fluid
+    |	.navbar-expand-lg > .container-sm
+    |	.navbar-expand-lg > .container-md
+    |	.navbar-expand-lg > .container-lg
+    |	.navbar-expand-lg > .container-xl
+    |	.navbar-expand-xl > .container
+    |	.navbar-expand-xl > .container-fluid
+    |	.navbar-expand-xl > .container-sm
+    |	.navbar-expand-xl > .container-md
+    |	.navbar-expand-xl > .container-lg
+    |	.navbar-expand-xl > .container-xl
+    |	.navbar-expand-xl
+    |	.navbar-expand-xl .navbar-nav
+    |	.navbar-expand-xl .navbar-nav .dropdown-menu
+    |	.navbar-expand-xl .navbar-nav .nav-link
+    |	.navbar-expand-xl > .container
+    |	.navbar-expand-xl > .container-fluid
+    |	.navbar-expand-xl > .container-sm
+    |	.navbar-expand-xl > .container-md
+    |	.navbar-expand-xl > .container-lg
+    |	.navbar-expand-xl > .container-xl
+    |	.navbar-expand-xl .navbar-collapse
+    |	.navbar-expand-xl .navbar-toggler
+    |	.navbar-expand > .container
+    |	.navbar-expand > .container-fluid
+    |	.navbar-expand > .container-sm
+    |	.navbar-expand > .container-md
+    |	.navbar-expand > .container-lg
+    |	.navbar-expand > .container-xl
+    |	.navbar-expand .navbar-nav .dropdown-menu
+    |	.navbar-expand > .container
+    |	.navbar-expand > .container-fluid
+    |	.navbar-expand > .container-sm
+    |	.navbar-expand > .container-md
+    |	.navbar-expand > .container-lg
+    |	.navbar-expand > .container-xl
+    |	.navbar-light .navbar-nav .nav-link.disabled
+    |	.navbar-light .navbar-nav .show > .nav-link
+    |	.navbar-light .navbar-nav .active > .nav-link
+    |	.navbar-light .navbar-nav .nav-link.show
+    |	.navbar-light .navbar-nav .nav-link.active
+    |	.navbar-light .navbar-text
+    |	.navbar-light .navbar-text a
+    |	.navbar-light .navbar-text a:hover
+    |	.navbar-light .navbar-text a:focus
+    |	.navbar-dark .navbar-brand
+    |	.navbar-dark .navbar-brand:hover
+    |	.navbar-dark .navbar-brand:focus
+    |	.navbar-dark .navbar-nav .nav-link
+    |	.navbar-dark .navbar-nav .nav-link:hover
+    |	.navbar-dark .navbar-nav .nav-link:focus
+    |	.navbar-dark .navbar-nav .nav-link.disabled
+    |	.navbar-dark .navbar-nav .show > .nav-link
+    |	.navbar-dark .navbar-nav .active > .nav-link
+    |	.navbar-dark .navbar-nav .nav-link.show
+    |	.navbar-dark .navbar-nav .nav-link.active
+    |	.navbar-dark .navbar-toggler
+    |	.navbar-dark .navbar-toggler-icon
+    |	.navbar-dark .navbar-text
+    |	.navbar-dark .navbar-text a
+    |	.navbar-dark .navbar-text a:hover
+    |	.navbar-dark .navbar-text a:focus
+    |	.card > hr
+    |	.card > .list-group
+    |	.card > .list-group:first-child
+    |	.card > .list-group:last-child
+    |	.card > .card-header + .list-group
+    |	.card > .list-group + .card-footer
+    |	.card-subtitle
+    |	.card-text:last-child
+    |	.card-header
+    |	.card-header:first-child
+    |	.card-footer
+    |	.card-footer:last-child
+    |	.card-header-tabs
+    |	.card-header-pills
+    |	.card-img-overlay
+    |	.card-img-bottom
+    |	.card-img-bottom
+    |	.card-deck .card
+    |	.card-deck
+    |	.card-deck .card
+    |	.card-group > .card
+    |	.card-group
+    |	.card-group > .card
+    |	.card-group > .card + .card
+    |	.card-group > .card:not(:last-child)
+    |	.card-group > .card:not(:last-child) .card-img-top
+    |	.card-group > .card:not(:last-child) .card-header
+    |	.card-group > .card:not(:last-child) .card-img-bottom
+    |	.card-group > .card:not(:last-child) .card-footer
+    |	.card-group > .card:not(:first-child)
+    |	.card-group > .card:not(:first-child) .card-img-top
+    |	.card-group > .card:not(:first-child) .card-header
+    |	.card-group > .card:not(:first-child) .card-img-bottom
+    |	.card-group > .card:not(:first-child) .card-footer
+    |	.card-columns .card
+    |	.card-columns
+    |	.card-columns .card
+    |	.accordion
+    |	.accordion > .card
+    |	.accordion > .card:not(:last-of-type)
+    |	.accordion > .card:not(:first-of-type)
+    |	.accordion > .card > .card-header
+    |	.breadcrumb
+    |	.breadcrumb-item
+    |	.breadcrumb-item + .breadcrumb-item
+    |	.breadcrumb-item + .breadcrumb-item::before
+    |	.breadcrumb-item + .breadcrumb-item:hover::before
+    |	.breadcrumb-item + .breadcrumb-item:hover::before
+    |	.breadcrumb-item.active
+    |	.pagination
+    |	.page-link
+    |	.page-link:hover
+    |	.page-link:focus
+    |	.page-item:first-child .page-link
+    |	.page-item:last-child .page-link
+    |	.page-item.active .page-link
+    |	.page-item.disabled .page-link
+    |	.pagination-lg .page-link
+    |	.pagination-lg .page-item:first-child .page-link
+    |	.pagination-lg .page-item:last-child .page-link
+    |	.pagination-sm .page-link
+    |	.pagination-sm .page-item:first-child .page-link
+    |	.pagination-sm .page-item:last-child .page-link
+    |	.badge
+    |	.badge
+    |	a.badge:hover
+    |	a.badge:focus
+    |	.badge:empty
+    |	.btn .badge
+    |	.badge-pill
+    |	.badge-primary
+    |	a.badge-primary:hover
+    |	a.badge-primary:focus
+    |	a.badge-primary:focus
+    |	a.badge-primary.focus
+    |	.badge-secondary
+    |	a.badge-secondary:hover
+    |	a.badge-secondary:focus
+    |	a.badge-secondary:focus
+    |	a.badge-secondary.focus
+    |	.badge-success
+    |	a.badge-success:hover
+    |	a.badge-success:focus
+    |	a.badge-success:focus
+    |	a.badge-success.focus
+    |	.badge-info
+    |	a.badge-info:hover
+    |	a.badge-info:focus
+    |	a.badge-info:focus
+    |	a.badge-info.focus
+    |	.badge-warning
+    |	a.badge-warning:hover
+    |	a.badge-warning:focus
+    |	a.badge-warning:focus
+    |	a.badge-warning.focus
+    |	.badge-danger
+    |	a.badge-danger:hover
+    |	a.badge-danger:focus
+    |	a.badge-danger:focus
+    |	a.badge-danger.focus
+    |	.badge-light
+    |	a.badge-light:hover
+    |	a.badge-light:focus
+    |	a.badge-light:focus
+    |	a.badge-light.focus
+    |	.badge-dark
+    |	a.badge-dark:hover
+    |	a.badge-dark:focus
+    |	a.badge-dark:focus
+    |	a.badge-dark.focus
+    |	.jumbotron
+    |	.jumbotron
+    |	.jumbotron-fluid
+    |	.alert
+    |	.alert-heading
+    |	.alert-link
+    |	.alert-dismissible
+    |	.alert-dismissible .close
+    |	.alert-primary
+    |	.alert-primary hr
+    |	.alert-primary .alert-link
+    |	.alert-secondary
+    |	.alert-secondary hr
+    |	.alert-secondary .alert-link
+    |	.alert-success
+    |	.alert-success hr
+    |	.alert-success .alert-link
+    |	.alert-info
+    |	.alert-info hr
+    |	.alert-info .alert-link
+    |	.alert-warning
+    |	.alert-warning hr
+    |	.alert-warning .alert-link
+    |	.alert-danger
+    |	.alert-danger hr
+    |	.alert-danger .alert-link
+    |	.alert-light
+    |	.alert-light hr
+    |	.alert-light .alert-link
+    |	.alert-dark
+    |	.alert-dark hr
+    |	.alert-dark .alert-link
+    |	.progress
+    |	.progress-bar
+    |	.progress-bar
+    |	.progress-bar-striped
+    |	.progress-bar-animated
+    |	.progress-bar-animated
+    |	.media
+    |	.media-body
+    |	.list-group
+    |	.list-group-item-action
+    |	.list-group-item-action:hover
+    |	.list-group-item-action:focus
+    |	.list-group-item-action:active
+    |	.list-group-item
+    |	.list-group-item:first-child
+    |	.list-group-item:last-child
+    |	.list-group-item.disabled
+    |	.list-group-item:disabled
+    |	.list-group-item.active
+    |	.list-group-item + .list-group-item
+    |	.list-group-item + .list-group-item.active
+    |	.list-group-horizontal
+    |	.list-group-horizontal > .list-group-item:first-child
+    |	.list-group-horizontal > .list-group-item:last-child
+    |	.list-group-horizontal > .list-group-item.active
+    |	.list-group-horizontal > .list-group-item + .list-group-item
+    |	.list-group-horizontal > .list-group-item + .list-group-item.active
+    |	.list-group-horizontal-sm
+    |	.list-group-horizontal-sm > .list-group-item:first-child
+    |	.list-group-horizontal-sm > .list-group-item:last-child
+    |	.list-group-horizontal-sm > .list-group-item.active
+    |	.list-group-horizontal-sm > .list-group-item + .list-group-item
+    |	.list-group-horizontal-sm > .list-group-item + .list-group-item.active
+    |	.list-group-horizontal-md
+    |	.list-group-horizontal-md > .list-group-item:first-child
+    |	.list-group-horizontal-md > .list-group-item:last-child
+    |	.list-group-horizontal-md > .list-group-item.active
+    |	.list-group-horizontal-md > .list-group-item + .list-group-item
+    |	.list-group-horizontal-md > .list-group-item + .list-group-item.active
+    |	.list-group-horizontal-lg
+    |	.list-group-horizontal-lg > .list-group-item:first-child
+    |	.list-group-horizontal-lg > .list-group-item:last-child
+    |	.list-group-horizontal-lg > .list-group-item.active
+    |	.list-group-horizontal-lg > .list-group-item + .list-group-item
+    |	.list-group-horizontal-lg > .list-group-item + .list-group-item.active
+    |	.list-group-horizontal-xl
+    |	.list-group-horizontal-xl > .list-group-item:first-child
+    |	.list-group-horizontal-xl > .list-group-item:last-child
+    |	.list-group-horizontal-xl > .list-group-item.active
+    |	.list-group-horizontal-xl > .list-group-item + .list-group-item
+    |	.list-group-horizontal-xl > .list-group-item + .list-group-item.active
+    |	.list-group-flush
+    |	.list-group-flush > .list-group-item
+    |	.list-group-flush > .list-group-item:last-child
+    |	.list-group-item-primary
+    |	.list-group-item-primary.list-group-item-action:hover
+    |	.list-group-item-primary.list-group-item-action:focus
+    |	.list-group-item-primary.list-group-item-action.active
+    |	.list-group-item-secondary
+    |	.list-group-item-secondary.list-group-item-action:hover
+    |	.list-group-item-secondary.list-group-item-action:focus
+    |	.list-group-item-secondary.list-group-item-action.active
+    |	.list-group-item-success
+    |	.list-group-item-success.list-group-item-action:hover
+    |	.list-group-item-success.list-group-item-action:focus
+    |	.list-group-item-success.list-group-item-action.active
+    |	.list-group-item-info
+    |	.list-group-item-info.list-group-item-action:hover
+    |	.list-group-item-info.list-group-item-action:focus
+    |	.list-group-item-info.list-group-item-action.active
+    |	.list-group-item-warning
+    |	.list-group-item-warning.list-group-item-action:hover
+    |	.list-group-item-warning.list-group-item-action:focus
+    |	.list-group-item-warning.list-group-item-action.active
+    |	.list-group-item-danger
+    |	.list-group-item-danger.list-group-item-action:hover
+    |	.list-group-item-danger.list-group-item-action:focus
+    |	.list-group-item-danger.list-group-item-action.active
+    |	.list-group-item-light
+    |	.list-group-item-light.list-group-item-action:hover
+    |	.list-group-item-light.list-group-item-action:focus
+    |	.list-group-item-light.list-group-item-action.active
+    |	.list-group-item-dark
+    |	.list-group-item-dark.list-group-item-action:hover
+    |	.list-group-item-dark.list-group-item-action:focus
+    |	.list-group-item-dark.list-group-item-action.active
+    |	.close
+    |	.close:hover
+    |	.close:not(:disabled):not(.disabled):hover
+    |	.close:not(:disabled):not(.disabled):focus
+    |	button.close
+    |	a.close.disabled
+    |	.toast
+    |	.toast:not(:last-child)
+    |	.toast.showing
+    |	.toast.show
+    |	.toast.hide
+    |	.toast-header
+    |	.toast-body
+    |	.modal-open
+    |	.modal-open .modal
+    |	.modal
+    |	.modal-dialog
+    |	.modal.fade .modal-dialog
+    |	.modal.fade .modal-dialog
+    |	.modal.show .modal-dialog
+    |	.modal.modal-static .modal-dialog
+    |	.modal-dialog-scrollable
+    |	.modal-dialog-scrollable .modal-content
+    |	.modal-dialog-scrollable .modal-header
+    |	.modal-dialog-scrollable .modal-footer
+    |	.modal-dialog-scrollable .modal-body
+    |	.modal-dialog-centered
+    |	.modal-dialog-centered::before
+    |	.modal-dialog-centered.modal-dialog-scrollable
+    |	.modal-dialog-centered.modal-dialog-scrollable .modal-content
+    |	.modal-dialog-centered.modal-dialog-scrollable::before
+    |	.modal-content
+    |	.modal-backdrop
+    |	.modal-backdrop.fade
+    |	.modal-backdrop.show
+    |	.modal-header
+    |	.modal-header .close
+    |	.modal-title
+    |	.modal-body
+    |	.modal-footer
+    |	.modal-footer > *
+    |	.modal-scrollbar-measure
+    |	.modal-dialog
+    |	.modal-dialog-scrollable
+    |	.modal-dialog-scrollable .modal-content
+    |	.modal-dialog-centered
+    |	.modal-dialog-centered::before
+    |	.modal-sm
+    |	.modal-lg
+    |	.modal-xl
+    |	.modal-xl
+    |	.tooltip
+    |	.tooltip.show
+    |	.tooltip .arrow
+    |	.tooltip .arrow::before
+    |	.bs-tooltip-top
+    |	.bs-tooltip-auto[x-placement^="top"]
+    |	.bs-tooltip-top .arrow
+    |	.bs-tooltip-auto[x-placement^="top"] .arrow
+    |	.bs-tooltip-top .arrow::before
+    |	.bs-tooltip-auto[x-placement^="top"] .arrow::before
+    |	.bs-tooltip-right
+    |	.bs-tooltip-auto[x-placement^="right"]
+    |	.bs-tooltip-right .arrow
+    |	.bs-tooltip-auto[x-placement^="right"] .arrow
+    |	.bs-tooltip-right .arrow::before
+    |	.bs-tooltip-auto[x-placement^="right"] .arrow::before
+    |	.bs-tooltip-bottom
+    |	.bs-tooltip-auto[x-placement^="bottom"]
+    |	.bs-tooltip-bottom .arrow
+    |	.bs-tooltip-auto[x-placement^="bottom"] .arrow
+    |	.bs-tooltip-bottom .arrow::before
+    |	.bs-tooltip-auto[x-placement^="bottom"] .arrow::before
+    |	.bs-tooltip-left
+    |	.bs-tooltip-auto[x-placement^="left"]
+    |	.bs-tooltip-left .arrow
+    |	.bs-tooltip-auto[x-placement^="left"] .arrow
+    |	.bs-tooltip-left .arrow::before
+    |	.bs-tooltip-auto[x-placement^="left"] .arrow::before
+    |	.tooltip-inner
+    |	.popover
+    |	.popover .arrow
+    |	.popover .arrow::before
+    |	.popover .arrow::after
+    |	.bs-popover-top
+    |	.bs-popover-auto[x-placement^="top"]
+    |	.bs-popover-top > .arrow
+    |	.bs-popover-auto[x-placement^="top"] > .arrow
+    |	.bs-popover-top > .arrow::before
+    |	.bs-popover-auto[x-placement^="top"] > .arrow::before
+    |	.bs-popover-top > .arrow::after
+    |	.bs-popover-auto[x-placement^="top"] > .arrow::after
+    |	.bs-popover-right
+    |	.bs-popover-auto[x-placement^="right"]
+    |	.bs-popover-right > .arrow
+    |	.bs-popover-auto[x-placement^="right"] > .arrow
+    |	.bs-popover-right > .arrow::before
+    |	.bs-popover-auto[x-placement^="right"] > .arrow::before
+    |	.bs-popover-right > .arrow::after
+    |	.bs-popover-auto[x-placement^="right"] > .arrow::after
+    |	.bs-popover-bottom
+    |	.bs-popover-auto[x-placement^="bottom"]
+    |	.bs-popover-bottom > .arrow
+    |	.bs-popover-auto[x-placement^="bottom"] > .arrow
+    |	.bs-popover-bottom > .arrow::before
+    |	.bs-popover-auto[x-placement^="bottom"] > .arrow::before
+    |	.bs-popover-bottom > .arrow::after
+    |	.bs-popover-auto[x-placement^="bottom"] > .arrow::after
+    |	.bs-popover-bottom .popover-header::before
+    |	.bs-popover-auto[x-placement^="bottom"] .popover-header::before
+    |	.bs-popover-left
+    |	.bs-popover-auto[x-placement^="left"]
+    |	.bs-popover-left > .arrow
+    |	.bs-popover-auto[x-placement^="left"] > .arrow
+    |	.bs-popover-left > .arrow::before
+    |	.bs-popover-auto[x-placement^="left"] > .arrow::before
+    |	.bs-popover-left > .arrow::after
+    |	.bs-popover-auto[x-placement^="left"] > .arrow::after
+    |	.popover-header
+    |	.popover-header:empty
+    |	.popover-body
+    |	.carousel
+    |	.carousel.pointer-event
+    |	.carousel-inner
+    |	.carousel-inner::after
+    |	.carousel-item
+    |	.carousel-item
+    |	.carousel-item.active
+    |	.carousel-item-next
+    |	.carousel-item-prev
+    |	.carousel-item-next:not(.carousel-item-left)
+    |	.active.carousel-item-right
+    |	.carousel-item-prev:not(.carousel-item-right)
+    |	.active.carousel-item-left
+    |	.carousel-fade .carousel-item
+    |	.carousel-fade .carousel-item.active
+    |	.carousel-fade .carousel-item-next.carousel-item-left
+    |	.carousel-fade .carousel-item-prev.carousel-item-right
+    |	.carousel-fade .active.carousel-item-left
+    |	.carousel-fade .active.carousel-item-right
+    |	.carousel-fade .active.carousel-item-left
+    |	.carousel-fade .active.carousel-item-right
+    |	.carousel-control-prev
+    |	.carousel-control-next
+    |	.carousel-control-prev
+    |	.carousel-control-next
+    |	.carousel-control-prev:hover
+    |	.carousel-control-prev:focus
+    |	.carousel-control-next:hover
+    |	.carousel-control-next:focus
+    |	.carousel-control-prev
+    |	.carousel-control-next
+    |	.carousel-control-prev-icon
+    |	.carousel-control-next-icon
+    |	.carousel-control-prev-icon
+    |	.carousel-control-next-icon
+    |	.carousel-indicators
+    |	.carousel-indicators li
+    |	.carousel-indicators li
+    |	.carousel-indicators .active
+    |	.carousel-caption
+    |	.spinner-border
+    |	.spinner-border-sm
+    |	.spinner-grow
+    |	.spinner-grow-sm
+    |	.align-baseline
+    |	.align-top
+    |	.align-middle
+    |	.align-bottom
+    |	.align-text-bottom
+    |	.align-text-top
+    |	.bg-primary
+    |	a.bg-primary:hover
+    |	a.bg-primary:focus
+    |	button.bg-primary:hover
+    |	button.bg-primary:focus
+    |	.bg-secondary
+    |	a.bg-secondary:hover
+    |	a.bg-secondary:focus
+    |	button.bg-secondary:hover
+    |	button.bg-secondary:focus
+    |	.bg-success
+    |	a.bg-success:hover
+    |	a.bg-success:focus
+    |	button.bg-success:hover
+    |	button.bg-success:focus
+    |	.bg-info
+    |	a.bg-info:hover
+    |	a.bg-info:focus
+    |	button.bg-info:hover
+    |	button.bg-info:focus
+    |	.bg-warning
+    |	a.bg-warning:hover
+    |	a.bg-warning:focus
+    |	button.bg-warning:hover
+    |	button.bg-warning:focus
+    |	.bg-danger
+    |	a.bg-danger:hover
+    |	a.bg-danger:focus
+    |	button.bg-danger:hover
+    |	button.bg-danger:focus
+    |	.bg-light
+    |	a.bg-light:hover
+    |	a.bg-light:focus
+    |	button.bg-light:hover
+    |	button.bg-light:focus
+    |	.bg-dark
+    |	a.bg-dark:hover
+    |	a.bg-dark:focus
+    |	button.bg-dark:hover
+    |	button.bg-dark:focus
+    |	.bg-white
+    |	.bg-transparent
+    |	.border
+    |	.border-top
+    |	.border-right
+    |	.border-bottom
+    |	.border-left
+    |	.border-0
+    |	.border-top-0
+    |	.border-right-0
+    |	.border-bottom-0
+    |	.border-left-0
+    |	.border-primary
+    |	.border-secondary
+    |	.border-success
+    |	.border-info
+    |	.border-warning
+    |	.border-danger
+    |	.border-light
+    |	.border-dark
+    |	.border-white
+    |	.rounded-sm
+    |	.rounded
+    |	.rounded-top
+    |	.rounded-right
+    |	.rounded-bottom
+    |	.rounded-left
+    |	.rounded-lg
+    |	.rounded-circle
+    |	.rounded-pill
+    |	.rounded-0
+    |	.clearfix::after
+    |	.d-none
+    |	.d-inline
+    |	.d-inline-block
+    |	.d-block
+    |	.d-table
+    |	.d-table-row
+    |	.d-table-cell
+    |	.d-flex
+    |	.d-inline-flex
+    |	.d-sm-none
+    |	.d-sm-inline
+    |	.d-sm-inline-block
+    |	.d-sm-block
+    |	.d-sm-table
+    |	.d-sm-table-row
+    |	.d-sm-table-cell
+    |	.d-sm-flex
+    |	.d-sm-inline-flex
+    |	.d-md-none
+    |	.d-md-inline
+    |	.d-md-inline-block
+    |	.d-md-block
+    |	.d-md-table
+    |	.d-md-table-row
+    |	.d-md-table-cell
+    |	.d-md-flex
+    |	.d-md-inline-flex
+    |	.d-lg-none
+    |	.d-lg-inline
+    |	.d-lg-inline-block
+    |	.d-lg-block
+    |	.d-lg-table
+    |	.d-lg-table-row
+    |	.d-lg-table-cell
+    |	.d-lg-flex
+    |	.d-lg-inline-flex
+    |	.d-xl-none
+    |	.d-xl-inline
+    |	.d-xl-inline-block
+    |	.d-xl-block
+    |	.d-xl-table
+    |	.d-xl-table-row
+    |	.d-xl-table-cell
+    |	.d-xl-flex
+    |	.d-xl-inline-flex
+    |	.d-print-none
+    |	.d-print-inline
+    |	.d-print-inline-block
+    |	.d-print-block
+    |	.d-print-table
+    |	.d-print-table-row
+    |	.d-print-table-cell
+    |	.d-print-flex
+    |	.d-print-inline-flex
+    |	.embed-responsive
+    |	.embed-responsive::before
+    |	.embed-responsive .embed-responsive-item
+    |	.embed-responsive iframe
+    |	.embed-responsive embed
+    |	.embed-responsive object
+    |	.embed-responsive video
+    |	.embed-responsive-21by9::before
+    |	.embed-responsive-16by9::before
+    |	.embed-responsive-4by3::before
+    |	.embed-responsive-1by1::before
+    |	.flex-row
+    |	.flex-column
+    |	.flex-row-reverse
+    |	.flex-column-reverse
+    |	.flex-wrap
+    |	.flex-nowrap
+    |	.flex-wrap-reverse
+    |	.flex-fill
+    |	.flex-grow-0
+    |	.flex-grow-1
+    |	.flex-shrink-0
+    |	.flex-shrink-1
+    |	.justify-content-start
+    |	.justify-content-end
+    |	.justify-content-center
+    |	.justify-content-between
+    |	.justify-content-around
+    |	.align-items-start
+    |	.align-items-end
+    |	.align-items-center
+    |	.align-items-baseline
+    |	.align-items-stretch
+    |	.align-content-start
+    |	.align-content-end
+    |	.align-content-center
+    |	.align-content-between
+    |	.align-content-around
+    |	.align-content-stretch
+    |	.align-self-auto
+    |	.align-self-start
+    |	.align-self-end
+    |	.align-self-center
+    |	.align-self-baseline
+    |	.align-self-stretch
+    |	.flex-sm-row
+    |	.flex-sm-column
+    |	.flex-sm-row-reverse
+    |	.flex-sm-column-reverse
+    |	.flex-sm-wrap
+    |	.flex-sm-nowrap
+    |	.flex-sm-wrap-reverse
+    |	.flex-sm-fill
+    |	.flex-sm-grow-0
+    |	.flex-sm-grow-1
+    |	.flex-sm-shrink-0
+    |	.flex-sm-shrink-1
+    |	.justify-content-sm-start
+    |	.justify-content-sm-end
+    |	.justify-content-sm-center
+    |	.justify-content-sm-between
+    |	.justify-content-sm-around
+    |	.align-items-sm-start
+    |	.align-items-sm-end
+    |	.align-items-sm-center
+    |	.align-items-sm-baseline
+    |	.align-items-sm-stretch
+    |	.align-content-sm-start
+    |	.align-content-sm-end
+    |	.align-content-sm-center
+    |	.align-content-sm-between
+    |	.align-content-sm-around
+    |	.align-content-sm-stretch
+    |	.align-self-sm-auto
+    |	.align-self-sm-start
+    |	.align-self-sm-end
+    |	.align-self-sm-center
+    |	.align-self-sm-baseline
+    |	.align-self-sm-stretch
+    |	.flex-md-row
+    |	.flex-md-column
+    |	.flex-md-row-reverse
+    |	.flex-md-column-reverse
+    |	.flex-md-wrap
+    |	.flex-md-nowrap
+    |	.flex-md-wrap-reverse
+    |	.flex-md-fill
+    |	.flex-md-grow-0
+    |	.flex-md-grow-1
+    |	.flex-md-shrink-0
+    |	.flex-md-shrink-1
+    |	.justify-content-md-start
+    |	.justify-content-md-end
+    |	.justify-content-md-center
+    |	.justify-content-md-between
+    |	.justify-content-md-around
+    |	.align-items-md-start
+    |	.align-items-md-end
+    |	.align-items-md-center
+    |	.align-items-md-baseline
+    |	.align-items-md-stretch
+    |	.align-content-md-start
+    |	.align-content-md-end
+    |	.align-content-md-center
+    |	.align-content-md-between
+    |	.align-content-md-around
+    |	.align-content-md-stretch
+    |	.align-self-md-auto
+    |	.align-self-md-start
+    |	.align-self-md-end
+    |	.align-self-md-center
+    |	.align-self-md-baseline
+    |	.align-self-md-stretch
+    |	.flex-lg-row
+    |	.flex-lg-column
+    |	.flex-lg-row-reverse
+    |	.flex-lg-column-reverse
+    |	.flex-lg-wrap
+    |	.flex-lg-nowrap
+    |	.flex-lg-wrap-reverse
+    |	.flex-lg-fill
+    |	.flex-lg-grow-0
+    |	.flex-lg-grow-1
+    |	.flex-lg-shrink-0
+    |	.flex-lg-shrink-1
+    |	.justify-content-lg-start
+    |	.justify-content-lg-end
+    |	.justify-content-lg-center
+    |	.justify-content-lg-between
+    |	.justify-content-lg-around
+    |	.align-items-lg-start
+    |	.align-items-lg-end
+    |	.align-items-lg-center
+    |	.align-items-lg-baseline
+    |	.align-items-lg-stretch
+    |	.align-content-lg-start
+    |	.align-content-lg-end
+    |	.align-content-lg-center
+    |	.align-content-lg-between
+    |	.align-content-lg-around
+    |	.align-content-lg-stretch
+    |	.align-self-lg-auto
+    |	.align-self-lg-start
+    |	.align-self-lg-end
+    |	.align-self-lg-center
+    |	.align-self-lg-baseline
+    |	.align-self-lg-stretch
+    |	.flex-xl-row
+    |	.flex-xl-column
+    |	.flex-xl-row-reverse
+    |	.flex-xl-column-reverse
+    |	.flex-xl-wrap
+    |	.flex-xl-nowrap
+    |	.flex-xl-wrap-reverse
+    |	.flex-xl-fill
+    |	.flex-xl-grow-0
+    |	.flex-xl-grow-1
+    |	.flex-xl-shrink-0
+    |	.flex-xl-shrink-1
+    |	.justify-content-xl-start
+    |	.justify-content-xl-end
+    |	.justify-content-xl-center
+    |	.justify-content-xl-between
+    |	.justify-content-xl-around
+    |	.align-items-xl-start
+    |	.align-items-xl-end
+    |	.align-items-xl-center
+    |	.align-items-xl-baseline
+    |	.align-items-xl-stretch
+    |	.align-content-xl-start
+    |	.align-content-xl-end
+    |	.align-content-xl-center
+    |	.align-content-xl-between
+    |	.align-content-xl-around
+    |	.align-content-xl-stretch
+    |	.align-self-xl-auto
+    |	.align-self-xl-start
+    |	.align-self-xl-end
+    |	.align-self-xl-center
+    |	.align-self-xl-baseline
+    |	.align-self-xl-stretch
+    |	.float-left
+    |	.float-right
+    |	.float-none
+    |	.float-sm-left
+    |	.float-sm-right
+    |	.float-sm-none
+    |	.float-md-left
+    |	.float-md-right
+    |	.float-md-none
+    |	.float-lg-left
+    |	.float-lg-right
+    |	.float-lg-none
+    |	.float-xl-left
+    |	.float-xl-right
+    |	.float-xl-none
+    |	.user-select-all
+    |	.user-select-auto
+    |	.user-select-none
+    |	.overflow-auto
+    |	.overflow-hidden
+    |	.position-static
+    |	.position-relative
+    |	.position-absolute
+    |	.position-fixed
+    |	.position-sticky
+    |	.fixed-bottom
+    |	.sr-only
+    |	.sr-only-focusable:active
+    |	.sr-only-focusable:focus
+    |	.shadow-sm
+    |	.shadow
+    |	.shadow-lg
+    |	.shadow-none
+    |	.w-25
+    |	.w-50
+    |	.w-75
+    |	.w-100
+    |	.w-auto
+    |	.mw-100
+    |	.mh-100
+    |	.min-vw-100
+    |	.min-vh-100
+    |	.vw-100
+    |	.vh-100
+    |	.m-0
+    |	.mt-0
+    |	.my-0
+    |	.mr-0
+    |	.mx-0
+    |	.mb-0
+    |	.my-0
+    |	.mx-0
+    |	.m-1
+    |	.mt-1
+    |	.my-1
+    |	.mr-1
+    |	.mx-1
+    |	.mb-1
+    |	.my-1
+    |	.mx-1
+    |	.m-2
+    |	.mt-2
+    |	.my-2
+    |	.mr-2
+    |	.mx-2
+    |	.mb-2
+    |	.my-2
+    |	.mx-2
+    |	.m-3
+    |	.mt-3
+    |	.my-3
+    |	.mr-3
+    |	.mx-3
+    |	.mb-3
+    |	.my-3
+    |	.mx-3
+    |	.m-4
+    |	.mt-4
+    |	.my-4
+    |	.mr-4
+    |	.mx-4
+    |	.mb-4
+    |	.my-4
+    |	.mx-4
+    |	.m-5
+    |	.mt-5
+    |	.my-5
+    |	.mr-5
+    |	.mx-5
+    |	.mb-5
+    |	.my-5
+    |	.mx-5
+    |	.p-0
+    |	.pt-0
+    |	.py-0
+    |	.pr-0
+    |	.pb-0
+    |	.py-0
+    |	.pl-0
+    |	.p-1
+    |	.pt-1
+    |	.py-1
+    |	.pr-1
+    |	.pb-1
+    |	.py-1
+    |	.pl-1
+    |	.p-2
+    |	.pt-2
+    |	.py-2
+    |	.pr-2
+    |	.pb-2
+    |	.py-2
+    |	.pl-2
+    |	.p-3
+    |	.pt-3
+    |	.py-3
+    |	.pr-3
+    |	.pb-3
+    |	.py-3
+    |	.pl-3
+    |	.p-4
+    |	.pt-4
+    |	.py-4
+    |	.pr-4
+    |	.pb-4
+    |	.py-4
+    |	.pl-4
+    |	.p-5
+    |	.pt-5
+    |	.py-5
+    |	.pr-5
+    |	.pb-5
+    |	.py-5
+    |	.pl-5
+    |	.m-n1
+    |	.mt-n1
+    |	.my-n1
+    |	.mr-n1
+    |	.mx-n1
+    |	.mb-n1
+    |	.my-n1
+    |	.ml-n1
+    |	.mx-n1
+    |	.m-n2
+    |	.mt-n2
+    |	.my-n2
+    |	.mr-n2
+    |	.mx-n2
+    |	.mb-n2
+    |	.my-n2
+    |	.ml-n2
+    |	.mx-n2
+    |	.m-n3
+    |	.mt-n3
+    |	.my-n3
+    |	.mr-n3
+    |	.mx-n3
+    |	.mb-n3
+    |	.my-n3
+    |	.ml-n3
+    |	.mx-n3
+    |	.m-n4
+    |	.mt-n4
+    |	.my-n4
+    |	.mr-n4
+    |	.mx-n4
+    |	.mb-n4
+    |	.my-n4
+    |	.ml-n4
+    |	.mx-n4
+    |	.m-n5
+    |	.mt-n5
+    |	.my-n5
+    |	.mr-n5
+    |	.mx-n5
+    |	.mb-n5
+    |	.my-n5
+    |	.ml-n5
+    |	.mx-n5
+    |	.m-auto
+    |	.mt-auto
+    |	.my-auto
+    |	.mr-auto
+    |	.mx-auto
+    |	.mb-auto
+    |	.my-auto
+    |	.mx-auto
+    |	.m-sm-0
+    |	.mt-sm-0
+    |	.my-sm-0
+    |	.mr-sm-0
+    |	.mx-sm-0
+    |	.mb-sm-0
+    |	.my-sm-0
+    |	.ml-sm-0
+    |	.mx-sm-0
+    |	.m-sm-1
+    |	.mt-sm-1
+    |	.my-sm-1
+    |	.mr-sm-1
+    |	.mx-sm-1
+    |	.mb-sm-1
+    |	.my-sm-1
+    |	.ml-sm-1
+    |	.mx-sm-1
+    |	.m-sm-2
+    |	.mt-sm-2
+    |	.my-sm-2
+    |	.mr-sm-2
+    |	.mx-sm-2
+    |	.mb-sm-2
+    |	.my-sm-2
+    |	.ml-sm-2
+    |	.mx-sm-2
+    |	.m-sm-3
+    |	.mt-sm-3
+    |	.my-sm-3
+    |	.mr-sm-3
+    |	.mx-sm-3
+    |	.mb-sm-3
+    |	.my-sm-3
+    |	.ml-sm-3
+    |	.mx-sm-3
+    |	.m-sm-4
+    |	.mt-sm-4
+    |	.my-sm-4
+    |	.mr-sm-4
+    |	.mx-sm-4
+    |	.mb-sm-4
+    |	.my-sm-4
+    |	.ml-sm-4
+    |	.mx-sm-4
+    |	.m-sm-5
+    |	.mt-sm-5
+    |	.my-sm-5
+    |	.mr-sm-5
+    |	.mx-sm-5
+    |	.mb-sm-5
+    |	.my-sm-5
+    |	.ml-sm-5
+    |	.mx-sm-5
+    |	.p-sm-0
+    |	.pt-sm-0
+    |	.py-sm-0
+    |	.pr-sm-0
+    |	.px-sm-0
+    |	.pb-sm-0
+    |	.py-sm-0
+    |	.pl-sm-0
+    |	.px-sm-0
+    |	.p-sm-1
+    |	.pt-sm-1
+    |	.py-sm-1
+    |	.pr-sm-1
+    |	.px-sm-1
+    |	.pb-sm-1
+    |	.py-sm-1
+    |	.pl-sm-1
+    |	.px-sm-1
+    |	.p-sm-2
+    |	.pt-sm-2
+    |	.py-sm-2
+    |	.pr-sm-2
+    |	.px-sm-2
+    |	.pb-sm-2
+    |	.py-sm-2
+    |	.pl-sm-2
+    |	.px-sm-2
+    |	.p-sm-3
+    |	.pt-sm-3
+    |	.py-sm-3
+    |	.pr-sm-3
+    |	.px-sm-3
+    |	.pb-sm-3
+    |	.py-sm-3
+    |	.pl-sm-3
+    |	.px-sm-3
+    |	.p-sm-4
+    |	.pt-sm-4
+    |	.py-sm-4
+    |	.pr-sm-4
+    |	.px-sm-4
+    |	.pb-sm-4
+    |	.py-sm-4
+    |	.pl-sm-4
+    |	.px-sm-4
+    |	.p-sm-5
+    |	.pt-sm-5
+    |	.py-sm-5
+    |	.pr-sm-5
+    |	.px-sm-5
+    |	.pb-sm-5
+    |	.py-sm-5
+    |	.pl-sm-5
+    |	.px-sm-5
+    |	.m-sm-n1
+    |	.mt-sm-n1
+    |	.my-sm-n1
+    |	.mr-sm-n1
+    |	.mx-sm-n1
+    |	.mb-sm-n1
+    |	.my-sm-n1
+    |	.ml-sm-n1
+    |	.mx-sm-n1
+    |	.m-sm-n2
+    |	.mt-sm-n2
+    |	.my-sm-n2
+    |	.mr-sm-n2
+    |	.mx-sm-n2
+    |	.mb-sm-n2
+    |	.my-sm-n2
+    |	.ml-sm-n2
+    |	.mx-sm-n2
+    |	.m-sm-n3
+    |	.mt-sm-n3
+    |	.my-sm-n3
+    |	.mr-sm-n3
+    |	.mx-sm-n3
+    |	.mb-sm-n3
+    |	.my-sm-n3
+    |	.ml-sm-n3
+    |	.mx-sm-n3
+    |	.m-sm-n4
+    |	.mt-sm-n4
+    |	.my-sm-n4
+    |	.mr-sm-n4
+    |	.mx-sm-n4
+    |	.mb-sm-n4
+    |	.my-sm-n4
+    |	.ml-sm-n4
+    |	.mx-sm-n4
+    |	.m-sm-n5
+    |	.mt-sm-n5
+    |	.my-sm-n5
+    |	.mr-sm-n5
+    |	.mx-sm-n5
+    |	.mb-sm-n5
+    |	.my-sm-n5
+    |	.ml-sm-n5
+    |	.mx-sm-n5
+    |	.m-sm-auto
+    |	.mt-sm-auto
+    |	.my-sm-auto
+    |	.mr-sm-auto
+    |	.mx-sm-auto
+    |	.mb-sm-auto
+    |	.my-sm-auto
+    |	.ml-sm-auto
+    |	.mx-sm-auto
+    |	.m-md-0
+    |	.mt-md-0
+    |	.my-md-0
+    |	.mr-md-0
+    |	.mx-md-0
+    |	.mb-md-0
+    |	.my-md-0
+    |	.ml-md-0
+    |	.mx-md-0
+    |	.m-md-1
+    |	.mt-md-1
+    |	.my-md-1
+    |	.mr-md-1
+    |	.mx-md-1
+    |	.mb-md-1
+    |	.my-md-1
+    |	.ml-md-1
+    |	.mx-md-1
+    |	.m-md-2
+    |	.mt-md-2
+    |	.my-md-2
+    |	.mr-md-2
+    |	.mx-md-2
+    |	.mb-md-2
+    |	.my-md-2
+    |	.ml-md-2
+    |	.mx-md-2
+    |	.m-md-3
+    |	.mt-md-3
+    |	.my-md-3
+    |	.mr-md-3
+    |	.mx-md-3
+    |	.mb-md-3
+    |	.my-md-3
+    |	.ml-md-3
+    |	.mx-md-3
+    |	.m-md-4
+    |	.mt-md-4
+    |	.my-md-4
+    |	.mr-md-4
+    |	.mx-md-4
+    |	.mb-md-4
+    |	.my-md-4
+    |	.ml-md-4
+    |	.mx-md-4
+    |	.m-md-5
+    |	.mt-md-5
+    |	.my-md-5
+    |	.mr-md-5
+    |	.mx-md-5
+    |	.mb-md-5
+    |	.my-md-5
+    |	.ml-md-5
+    |	.mx-md-5
+    |	.p-md-0
+    |	.pt-md-0
+    |	.py-md-0
+    |	.pr-md-0
+    |	.px-md-0
+    |	.pb-md-0
+    |	.py-md-0
+    |	.pl-md-0
+    |	.px-md-0
+    |	.p-md-1
+    |	.pt-md-1
+    |	.py-md-1
+    |	.pr-md-1
+    |	.px-md-1
+    |	.pb-md-1
+    |	.py-md-1
+    |	.pl-md-1
+    |	.px-md-1
+    |	.p-md-2
+    |	.pt-md-2
+    |	.py-md-2
+    |	.pr-md-2
+    |	.px-md-2
+    |	.pb-md-2
+    |	.py-md-2
+    |	.pl-md-2
+    |	.px-md-2
+    |	.p-md-3
+    |	.pt-md-3
+    |	.py-md-3
+    |	.pr-md-3
+    |	.px-md-3
+    |	.pb-md-3
+    |	.py-md-3
+    |	.pl-md-3
+    |	.px-md-3
+    |	.p-md-4
+    |	.pt-md-4
+    |	.py-md-4
+    |	.pr-md-4
+    |	.px-md-4
+    |	.pb-md-4
+    |	.py-md-4
+    |	.pl-md-4
+    |	.px-md-4
+    |	.p-md-5
+    |	.pt-md-5
+    |	.py-md-5
+    |	.pr-md-5
+    |	.px-md-5
+    |	.pb-md-5
+    |	.py-md-5
+    |	.pl-md-5
+    |	.px-md-5
+    |	.m-md-n1
+    |	.mt-md-n1
+    |	.my-md-n1
+    |	.mr-md-n1
+    |	.mx-md-n1
+    |	.mb-md-n1
+    |	.my-md-n1
+    |	.ml-md-n1
+    |	.mx-md-n1
+    |	.m-md-n2
+    |	.mt-md-n2
+    |	.my-md-n2
+    |	.mr-md-n2
+    |	.mx-md-n2
+    |	.mb-md-n2
+    |	.my-md-n2
+    |	.ml-md-n2
+    |	.mx-md-n2
+    |	.m-md-n3
+    |	.mt-md-n3
+    |	.my-md-n3
+    |	.mr-md-n3
+    |	.mx-md-n3
+    |	.mb-md-n3
+    |	.my-md-n3
+    |	.ml-md-n3
+    |	.mx-md-n3
+    |	.m-md-n4
+    |	.mt-md-n4
+    |	.my-md-n4
+    |	.mr-md-n4
+    |	.mx-md-n4
+    |	.mb-md-n4
+    |	.my-md-n4
+    |	.ml-md-n4
+    |	.mx-md-n4
+    |	.m-md-n5
+    |	.mt-md-n5
+    |	.my-md-n5
+    |	.mr-md-n5
+    |	.mx-md-n5
+    |	.mb-md-n5
+    |	.my-md-n5
+    |	.ml-md-n5
+    |	.mx-md-n5
+    |	.m-md-auto
+    |	.mt-md-auto
+    |	.my-md-auto
+    |	.mr-md-auto
+    |	.mx-md-auto
+    |	.mb-md-auto
+    |	.my-md-auto
+    |	.ml-md-auto
+    |	.mx-md-auto
+    |	.m-lg-0
+    |	.mt-lg-0
+    |	.my-lg-0
+    |	.mr-lg-0
+    |	.mx-lg-0
+    |	.mb-lg-0
+    |	.my-lg-0
+    |	.mx-lg-0
+    |	.m-lg-1
+    |	.mt-lg-1
+    |	.my-lg-1
+    |	.mr-lg-1
+    |	.mx-lg-1
+    |	.mb-lg-1
+    |	.my-lg-1
+    |	.mx-lg-1
+    |	.m-lg-2
+    |	.mt-lg-2
+    |	.my-lg-2
+    |	.mr-lg-2
+    |	.mx-lg-2
+    |	.mb-lg-2
+    |	.my-lg-2
+    |	.mx-lg-2
+    |	.m-lg-3
+    |	.mt-lg-3
+    |	.my-lg-3
+    |	.mr-lg-3
+    |	.mx-lg-3
+    |	.mb-lg-3
+    |	.my-lg-3
+    |	.mx-lg-3
+    |	.m-lg-4
+    |	.mt-lg-4
+    |	.my-lg-4
+    |	.mr-lg-4
+    |	.mx-lg-4
+    |	.mb-lg-4
+    |	.my-lg-4
+    |	.mx-lg-4
+    |	.m-lg-5
+    |	.mt-lg-5
+    |	.my-lg-5
+    |	.mr-lg-5
+    |	.mx-lg-5
+    |	.mb-lg-5
+    |	.my-lg-5
+    |	.mx-lg-5
+    |	.p-lg-0
+    |	.pt-lg-0
+    |	.py-lg-0
+    |	.pr-lg-0
+    |	.pb-lg-0
+    |	.py-lg-0
+    |	.pl-lg-0
+    |	.p-lg-1
+    |	.pt-lg-1
+    |	.py-lg-1
+    |	.pr-lg-1
+    |	.pb-lg-1
+    |	.py-lg-1
+    |	.pl-lg-1
+    |	.p-lg-2
+    |	.pt-lg-2
+    |	.py-lg-2
+    |	.pr-lg-2
+    |	.pb-lg-2
+    |	.py-lg-2
+    |	.pl-lg-2
+    |	.p-lg-3
+    |	.pt-lg-3
+    |	.py-lg-3
+    |	.pr-lg-3
+    |	.pb-lg-3
+    |	.py-lg-3
+    |	.pl-lg-3
+    |	.p-lg-4
+    |	.pt-lg-4
+    |	.py-lg-4
+    |	.pr-lg-4
+    |	.pb-lg-4
+    |	.py-lg-4
+    |	.pl-lg-4
+    |	.p-lg-5
+    |	.pt-lg-5
+    |	.py-lg-5
+    |	.pr-lg-5
+    |	.pb-lg-5
+    |	.py-lg-5
+    |	.pl-lg-5
+    |	.m-lg-n1
+    |	.mt-lg-n1
+    |	.my-lg-n1
+    |	.mr-lg-n1
+    |	.mx-lg-n1
+    |	.mb-lg-n1
+    |	.my-lg-n1
+    |	.ml-lg-n1
+    |	.mx-lg-n1
+    |	.m-lg-n2
+    |	.mt-lg-n2
+    |	.my-lg-n2
+    |	.mr-lg-n2
+    |	.mx-lg-n2
+    |	.mb-lg-n2
+    |	.my-lg-n2
+    |	.ml-lg-n2
+    |	.mx-lg-n2
+    |	.m-lg-n3
+    |	.mt-lg-n3
+    |	.my-lg-n3
+    |	.mr-lg-n3
+    |	.mx-lg-n3
+    |	.mb-lg-n3
+    |	.my-lg-n3
+    |	.ml-lg-n3
+    |	.mx-lg-n3
+    |	.m-lg-n4
+    |	.mt-lg-n4
+    |	.my-lg-n4
+    |	.mr-lg-n4
+    |	.mx-lg-n4
+    |	.mb-lg-n4
+    |	.my-lg-n4
+    |	.ml-lg-n4
+    |	.mx-lg-n4
+    |	.m-lg-n5
+    |	.mt-lg-n5
+    |	.my-lg-n5
+    |	.mr-lg-n5
+    |	.mx-lg-n5
+    |	.mb-lg-n5
+    |	.my-lg-n5
+    |	.ml-lg-n5
+    |	.mx-lg-n5
+    |	.m-lg-auto
+    |	.mt-lg-auto
+    |	.my-lg-auto
+    |	.mr-lg-auto
+    |	.mx-lg-auto
+    |	.mb-lg-auto
+    |	.my-lg-auto
+    |	.mx-lg-auto
+    |	.m-xl-0
+    |	.mt-xl-0
+    |	.my-xl-0
+    |	.mr-xl-0
+    |	.mx-xl-0
+    |	.mb-xl-0
+    |	.my-xl-0
+    |	.ml-xl-0
+    |	.mx-xl-0
+    |	.m-xl-1
+    |	.mt-xl-1
+    |	.my-xl-1
+    |	.mr-xl-1
+    |	.mx-xl-1
+    |	.mb-xl-1
+    |	.my-xl-1
+    |	.ml-xl-1
+    |	.mx-xl-1
+    |	.m-xl-2
+    |	.mt-xl-2
+    |	.my-xl-2
+    |	.mr-xl-2
+    |	.mx-xl-2
+    |	.mb-xl-2
+    |	.my-xl-2
+    |	.ml-xl-2
+    |	.mx-xl-2
+    |	.m-xl-3
+    |	.mt-xl-3
+    |	.my-xl-3
+    |	.mr-xl-3
+    |	.mx-xl-3
+    |	.mb-xl-3
+    |	.my-xl-3
+    |	.ml-xl-3
+    |	.mx-xl-3
+    |	.m-xl-4
+    |	.mt-xl-4
+    |	.my-xl-4
+    |	.mr-xl-4
+    |	.mx-xl-4
+    |	.mb-xl-4
+    |	.my-xl-4
+    |	.ml-xl-4
+    |	.mx-xl-4
+    |	.m-xl-5
+    |	.mt-xl-5
+    |	.my-xl-5
+    |	.mr-xl-5
+    |	.mx-xl-5
+    |	.mb-xl-5
+    |	.my-xl-5
+    |	.ml-xl-5
+    |	.mx-xl-5
+    |	.p-xl-0
+    |	.pt-xl-0
+    |	.py-xl-0
+    |	.pr-xl-0
+    |	.px-xl-0
+    |	.pb-xl-0
+    |	.py-xl-0
+    |	.pl-xl-0
+    |	.px-xl-0
+    |	.p-xl-1
+    |	.pt-xl-1
+    |	.py-xl-1
+    |	.pr-xl-1
+    |	.px-xl-1
+    |	.pb-xl-1
+    |	.py-xl-1
+    |	.pl-xl-1
+    |	.px-xl-1
+    |	.p-xl-2
+    |	.pt-xl-2
+    |	.py-xl-2
+    |	.pr-xl-2
+    |	.px-xl-2
+    |	.pb-xl-2
+    |	.py-xl-2
+    |	.pl-xl-2
+    |	.px-xl-2
+    |	.p-xl-3
+    |	.pt-xl-3
+    |	.py-xl-3
+    |	.pr-xl-3
+    |	.px-xl-3
+    |	.pb-xl-3
+    |	.py-xl-3
+    |	.pl-xl-3
+    |	.px-xl-3
+    |	.p-xl-4
+    |	.pt-xl-4
+    |	.py-xl-4
+    |	.pr-xl-4
+    |	.px-xl-4
+    |	.pb-xl-4
+    |	.py-xl-4
+    |	.pl-xl-4
+    |	.px-xl-4
+    |	.p-xl-5
+    |	.pt-xl-5
+    |	.py-xl-5
+    |	.pr-xl-5
+    |	.px-xl-5
+    |	.pb-xl-5
+    |	.py-xl-5
+    |	.pl-xl-5
+    |	.px-xl-5
+    |	.m-xl-n1
+    |	.mt-xl-n1
+    |	.my-xl-n1
+    |	.mr-xl-n1
+    |	.mx-xl-n1
+    |	.mb-xl-n1
+    |	.my-xl-n1
+    |	.ml-xl-n1
+    |	.mx-xl-n1
+    |	.m-xl-n2
+    |	.mt-xl-n2
+    |	.my-xl-n2
+    |	.mr-xl-n2
+    |	.mx-xl-n2
+    |	.mb-xl-n2
+    |	.my-xl-n2
+    |	.ml-xl-n2
+    |	.mx-xl-n2
+    |	.m-xl-n3
+    |	.mt-xl-n3
+    |	.my-xl-n3
+    |	.mr-xl-n3
+    |	.mx-xl-n3
+    |	.mb-xl-n3
+    |	.my-xl-n3
+    |	.ml-xl-n3
+    |	.mx-xl-n3
+    |	.m-xl-n4
+    |	.mt-xl-n4
+    |	.my-xl-n4
+    |	.mr-xl-n4
+    |	.mx-xl-n4
+    |	.mb-xl-n4
+    |	.my-xl-n4
+    |	.ml-xl-n4
+    |	.mx-xl-n4
+    |	.m-xl-n5
+    |	.mt-xl-n5
+    |	.my-xl-n5
+    |	.mr-xl-n5
+    |	.mx-xl-n5
+    |	.mb-xl-n5
+    |	.my-xl-n5
+    |	.ml-xl-n5
+    |	.mx-xl-n5
+    |	.m-xl-auto
+    |	.mt-xl-auto
+    |	.my-xl-auto
+    |	.mr-xl-auto
+    |	.mx-xl-auto
+    |	.mb-xl-auto
+    |	.my-xl-auto
+    |	.ml-xl-auto
+    |	.mx-xl-auto
+    |	.stretched-link::after
+    |	.text-monospace
+    |	.text-justify
+    |	.text-wrap
+    |	.text-nowrap
+    |	.text-truncate
+    |	.text-left
+    |	.text-right
+    |	.text-center
+    |	.text-sm-left
+    |	.text-sm-right
+    |	.text-sm-center
+    |	.text-md-left
+    |	.text-md-right
+    |	.text-md-center
+    |	.text-lg-left
+    |	.text-lg-right
+    |	.text-lg-center
+    |	.text-xl-left
+    |	.text-xl-right
+    |	.text-xl-center
+    |	.text-lowercase
+    |	.text-uppercase
+    |	.text-capitalize
+    |	.font-weight-light
+    |	.font-weight-lighter
+    |	.font-weight-normal
+    |	.font-weight-bold
+    |	.font-weight-bolder
+    |	.font-italic
+    |	.text-white
+    |	.text-primary
+    |	a.text-primary:hover
+    |	a.text-primary:focus
+    |	.text-secondary
+    |	a.text-secondary:hover
+    |	a.text-secondary:focus
+    |	.text-success
+    |	a.text-success:hover
+    |	a.text-success:focus
+    |	.text-info
+    |	a.text-info:hover
+    |	a.text-info:focus
+    |	.text-warning
+    |	a.text-warning:hover
+    |	a.text-warning:focus
+    |	.text-danger
+    |	a.text-danger:hover
+    |	a.text-danger:focus
+    |	.text-light
+    |	a.text-light:hover
+    |	a.text-light:focus
+    |	.text-dark
+    |	a.text-dark:hover
+    |	a.text-dark:focus
+    |	.text-body
+    |	.text-muted
+    |	.text-black-50
+    |	.text-white-50
+    |	.text-hide
+    |	.text-decoration-none
+    |	.text-break
+    |	.text-reset
+    |	.visible
+    |	.invisible
+    |	a:not(.btn)
+    |	abbr[title]::after
+    |	pre
+    |	pre
+    |	blockquote
+    |	thead
+    |	tr
+    |	p
+    |	.container
+    |	.badge
+    |	.table
+    |	.table td
+    |	.table th
+    |	.table-bordered th
+    |	.table-bordered td
+    |	.table-dark
+    |	.table-dark th
+    |	.table-dark td
+    |	.table-dark thead th
+    |	.table-dark tbody + tbody
+    |	.table .thead-dark th
+    |	p
+    |	.conteiner
+    |	#font-codigo
+    |
+    ________________________________________________
+    
