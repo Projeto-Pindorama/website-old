@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"O site está na baixa" mas o Copacabana está na alta</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <header>
+        <div id="navbar">
+            <nav>
+                <div class="left">
+                    <a href="/index.html">pindorama.tk</a> |
+                    <a href="http://pindorama.boards.net/">Fórum</a> |
+                    <a href="http://github.com/Projeto-Pindorama">Microsoft Github</a> |
+                    <a id="responsiveNavLateral" href="">Copacabana OpenLinux</a> <span
+                        id="responsiveNavLateral">|</span>
+                    <a id="responsiveNavLateral" href="#">Otto-PKG</a> <span id="responsiveNavLateral">|</span>
+                </div>
+            </nav>
+        </div>
+        <div id="logo-section">
+            <a id="pindoramaTK" href="#">/usr/spool/news</a>
+            <span id="subtitle">O jornal dos Pindoramas</span>
+        </div>
+    </header>
+    <nav id="NavLateral">
+        <div id="responsiveLinks">
+           <img id="logo-pindorama" src="/img/logo_pindorama.png" alt="Logo Pindoama" width="255px">
+            <p class="NavLateralTitulo">Artigos:</p>
+            <ul>
+                <li><a href="http://pindorama.tk/texto/artigos/2021">>2021</a></li>
+                <li><a href="http://pindorama.tk/texto/artigos/2021/Mar">>> Mar</a></li>
+                <!--<li><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>-->
+            </ul>
+            
+        </div>
+    </nav>
+    <article>
+       <h1 id="ArticleTitle">"O site está na baixa" mas o Copacabana está na alta</h1>
+        <div id="pArticle">
+          <p>Recentemente, depois de planejar e estudar bastante como o sistema funcionaria e quais <i>tools</i> usar, comecei a compilar o Copacabana OpenLinux, usando esse servidor para compilação e o meu laptop para acessar via SSH.<br />Boa parte do meu trabalho está sendo baseado do guia <a href="https://github.com/dslm4515/Musl-LFS">Musl-LFS</a>, feito por dslm4515 e alguns outros <i>hackers</i> (incluindo eu, que fiz uma pequena contribuição, como forma de agradecimento), todavia eu não consideraria "100% baseado no Musl-LFS" por conta das várias modificações que fiz, como por exemplo a troca de <i>userland</i> e de algumas outras <i>tools</i>.<br />Até o presente momento, eu fiz a <a href="http://www.clfs.org/view/CLFS-3.0.0-SYSVINIT/x86_64-64/cross-tools/introduction.html"><i>cross-toolchain</i></a> e uma parte considerável da <a href="http://www.clfs.org/view/CLFS-3.0.0-SYSVINIT/x86_64-64/temp-system/introduction.html"><i>toolchain</i></a>.<br />Abaixo deixarei uma tabela com o tamanho do disco virtual, da cross-toolchain e da toolchain.</p>
+        <table>
+          <tr>
+              <th>Recurso</th>
+              <th>Tamanho (M)</th>
+          </tr>
+          <tr>
+              <td>BASE.img</td>
+              <td>5427M</td>
+          </tr>
+          <tr>
+              <td>/cross-build</td>
+              <td>366M</td>
+          </tr>
+          <tr>
+              <td>/build (sem <tt>strip</tt>)</td>
+              <td>443M</td>
+          </tr>
+          <tr>
+              <td>/build (com <tt>strip</tt>)</td>
+              <td>407M</td>
+          </tr>
+        </table>
+        <p>Não pretendo lançar as <i>tarballs</i> por agora, até porque ainda falta muita coisa.<br />Sobre a distribuição final do Copacabana, eu acredito que vá ser algo semelhante à distribuição do Gentoo, Slackware ou Solaris 8, por meio de <i>tarballs</i> contendo a raiz do sistema que serão extraídas no disco raiz (<tt>/</tt>) por meio de um instalador rodando numa variação menor da mesma.</p>
+        </div>
+    </article>    
+  </body>
+</html>
