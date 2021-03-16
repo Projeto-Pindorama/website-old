@@ -42,6 +42,15 @@ header nav {
     border-bottom: 2px solid black;
 }
 
+#nav-noticias {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 0.3em; 
+    border-bottom: 2px solid black;
+}
+
 a { 
     text-decoration: none; 
 }
@@ -151,6 +160,13 @@ article img {
     font-size: 40px;
     background-color: rgba(153, 205, 50, 0.527);
     border-bottom: 3px solid yellowgreen;
+}
+
+#logo-section-noticias {
+    font-size: 40px;
+    background-color: #202225;
+    border-bottom: 3px solid rgb(34, 36, 31);
+    color: white;
 }
 
 #subtitle {
