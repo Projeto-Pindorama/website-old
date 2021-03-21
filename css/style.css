@@ -18,7 +18,7 @@ padding: 0;
 th { 
 color: white; 
 background-color: 
-rgb(100,135,220); 
+rgb(0, 49, 83); 
 }
 tr:nth-child(odd) { 
 background-color: rgba(128,128,128,0.1)  
