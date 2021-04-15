@@ -193,6 +193,15 @@ article img {
     text-decoration: underline;
 }
 
+.spoiler{ 
+  color: black; 
+  background-color:black;
+}
+
+.spoiler:hover{
+  color: white;
+}
+
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
     #logo-pindorama {
