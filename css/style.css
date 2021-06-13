@@ -177,7 +177,7 @@ article img {
     padding-right: 15px;
 }
 
-#ArticleTitle {
+.ArticleTitle {
     font-size: 40px;
 }
 
@@ -208,6 +208,28 @@ article img {
         width: 0px;
     }
 
+    #ResponsiveExternalLinks {
+        display: none;
+    }
+
+    body {
+        display: inline;
+        flex-wrap: wrap;
+        font-family: sans;
+        margin: 0;
+        padding: 0;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    article {
+        padding-left: 0px;
+    }
+
+    #pindoramaTK {
+        padding-right: 15px;
+        display: flex;
+    }
+
     #responsiveLinks {
         width: 0px;
         font-size: 0px;
@@ -217,7 +239,7 @@ article img {
         font-size: 1em;
     }
 
-    #ArticleTitle {
+    .ArticleTitle {
         text-align: center;
         padding: 0px !important;
     }
@@ -233,6 +255,23 @@ article img {
         width: 0px;
     }
 
+    #ResponsiveExternalLinks {
+        display: none;
+    }
+
+    body {
+        display: inline;
+        flex-wrap: wrap;
+        font-family: sans;
+        margin: 0;
+        padding: 0;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    article {
+        padding-left: 0px;
+    }
+
     #responsiveLinks {
         width: 0px;
         font-size: 0px;
@@ -242,7 +281,7 @@ article img {
         font-size: 1em;
     }
 
-    #ArticleTitle {
+    .ArticleTitle {
         text-align: center;
         padding: 0px !important;
     }
